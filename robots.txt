@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://NoahAronov.github.io/sitemap.xml
+Sitemap: https://noaharonov.github.io/sitemap.xml
