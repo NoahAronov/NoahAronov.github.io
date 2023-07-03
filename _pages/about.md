@@ -7,7 +7,7 @@ subtitle: Security Researcher, <a href='https://www.wgu.edu/online-it-degrees/cy
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   #address: >
     #<p>555 your office number</p>
     #<p>123 your address street</p>
@@ -43,6 +43,6 @@ social: true  # includes social icons at the bottom of the page
 
 #### Noah studies interdisciplinary topics in global security and technology, such as:
 
-##### Aerospace Engineering, Cybersecurity, Neurotechnology, Biosecurity, International Relations, Military History, Intelligence Studies, Political Economy, Political Theory & Philosophy, Cybernetics, Quantum Information & Engineering, Foundational Physics, Computational Physics & Mathematics, and Astrophysics. 
+###### _Aerospace Engineering, Cybersecurity, Neurotechnology, Biosecurity, International Relations, Military History, Intelligence Studies, Political Economy, Political Theory & Philosophy, Cybernetics, Quantum Information & Engineering, Foundational Physics, Computational Physics & Mathematics, and Astrophysics._ 
 
 #### Reading and investigating widely into topics like these facilitates a well-rounded breadth of knowledge around future security issues. Noah seeks to study applications of breakthrough technologies in a graduate school program after completing the BSCIA.
