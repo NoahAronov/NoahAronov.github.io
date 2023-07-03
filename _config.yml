@@ -72,37 +72,37 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: "NoahAronov" # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+#gitlab_username: # your GitLab user name
+#twitter_username: # your Twitter handle
+#mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: noah-aronov # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+#telegram_username: # your Telegram user name
+#scholar_userid: # your Google Scholar ID
+#semanticscholar_id: # your Semantic Scholar ID
+#whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+#orcid_id: # your ORCID ID
+#medium_username: # your Medium username
+#quora_username: # your Quora username
+#publons_id: # your ID on Publons
+#lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+#osf_id: # your OSF ID
+#research_gate_profile: # your profile on ResearchGate
+#scopus_id: # your profile on Scopus
+#blogger_url: # your blogger URL
+#work_url: # work page URL
+#keybase_username: # your keybase user name
+#wikidata_id: # your wikidata id
+#wikipedia_id: # your wikipedia id (Case sensitive)
+#dblp_url: # your DBLP profile url
+#stackoverflow_id: # your stackoverflow id
+#kaggle_id: # your kaggle id
+#lastfm_id: # your lastfm id
+#spotify_id: # your spotify id
+#pinterest_id: # your pinterest id
+#unsplash_id: # your unsplash id
+#instagram_id: # your instagram id
+#facebook_id: # your facebook id
+#youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 #discord_id: # your discord id (18-digit unique numerical identifier)
 
 #contact_note: >
@@ -122,18 +122,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: noah # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+#blog_name: noah # blog_name will be displayed in your blog page
+#blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+#blog_description: a simple whitespace theme for academics
+#permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+#pagination:
+  #enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+#related_blog_posts:
+  #enabled: true
+ # max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
