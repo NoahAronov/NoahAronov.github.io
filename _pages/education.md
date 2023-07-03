@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /certifications/
-title: certifications
-description: Professional Certifications and Licenses.
+permalink: /education/
+title: education
+description: Completed and in-progress degrees and diplomas.
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+# WIP

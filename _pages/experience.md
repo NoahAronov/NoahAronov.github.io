@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /certifications/
-title: certifications
-description: Professional Certifications and Licenses.
+permalink: /experience/
+title: experience
+description: Work and freelance professional experience.
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+# WIP
