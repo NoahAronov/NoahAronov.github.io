@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Security Researcher, BSCIA Student at [WGU](https://wgu.edu).
+subtitle: Security Researcher, <a href='https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html'>BSCIA</a> Student at <a href='https://wgu.edu'>WGU</a>.
 
 profile:
   align: right
@@ -19,8 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Studies topics in global security and technology, such as: Aerospace Engineering, Cybersecurity, Neurotechnology, International Relations, Military History, Intelligence Studies, Political Economy, Political Theory & Philosophy, Cybernetics, Biosecurity, Quantum Information & Engineering, Foundational Physics, Computational Physics & Mathematics, and Astrophysics. Reading and studying widely in topics like these facilitates a well-rounded breadth of knowledge around future security issues. Noah will seek to study military applications of breakthrough technologies in a graduate school program after completing the BSCIA. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+'Projects' is a portfolio of major and minor projects relating to Cybersecurity, both from school and from independent studies. Includes descriptions and images for individual projects. 
+'Courses' is a portfolio of courses/classes and learning paths taken outside of the BSCIA degree program. Includes links to sources, and shows certifications earned for completion.
+'Certifications' is a portfolio of professional certifications and licenses earned, with an emphasis on industry-standard qualifying certifications such as CompTIA, ISC(2), SANS, and TCM Security. 
+'CV' is a simplified and shortened resume, with the option to download the employer-ready pdf version. 
+#'Reading List' is a showcase of books and research articles that relate to the intersection of breakthrough technology and global security.
+#'Publications' is a portfolio of articles and essays. 
