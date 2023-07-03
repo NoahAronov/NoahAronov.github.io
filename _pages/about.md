@@ -33,11 +33,11 @@ social: true  # includes social icons at the bottom of the page
 
 [**"CV"**](https://noaharonov.github.io/cv/) _is a simplified and shortened resume, with the option to download the employer-ready (.pdf) version._ 
 
-["Writing"](https://noaharonov.github.io/writing/) _is a portfolio of published and unpublished written works such as essays, articles, research papers, and books._
+[**"Writing"**](https://noaharonov.github.io/writing/) _is a portfolio of published and unpublished written works such as essays, articles, research papers, and books._
 
 ---
 
 
-Noah is an [autodidact](https://www.chrisdpadilla.com/autodidacts) _("the 10 dollar word for saying someone is self taught")_, a [polymath](https://iamautodidact.com/how-to-become-an-autodidact-polymath-the-complete-guide/) _(“someone who becomes competent in at least three diverse domains”)_, and an in-progress [polyglot](https://iamautodidact.com/how-to-become-an-autodidact-polymath-the-complete-guide/) _("someone who knows multiple languages")_. 
+Noah is an [autodidact](https://www.chrisdpadilla.com/autodidacts) _("the 10 dollar word for saying someone is self taught")_, a [polymath](https://blog.superhuman.com/how-to-become-a-polymath/) _(“someone who becomes competent in at least three diverse domains”)_, and an in-progress [polyglot](https://iamautodidact.com/how-to-become-an-autodidact-polymath-the-complete-guide/) _("someone who knows multiple languages")_. 
 
 Noah studies interdisciplinary topics in global security and technology, such as: Aerospace Engineering, Cybersecurity, Neurotechnology, Biosecurity, International Relations, Military History, Intelligence Studies, Political Economy, Political Theory & Philosophy, Cybernetics, Quantum Information & Engineering, Foundational Physics, Computational Physics & Mathematics, and Astrophysics. Reading and investigating widely into topics like these facilitates a well-rounded breadth of knowledge around future security issues. Noah seeks to study applications of breakthrough technologies in a graduate school program after completing the BSCIA.
