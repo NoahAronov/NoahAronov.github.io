@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 ---
 
-[**"Projects"**](https://noaharonov.github.io/projects/) _is a portfolio of major and minor projects relating to cybersecurity, both from school and from independent studies. Includes links, descriptions, and images for individual projects._
+###### [**"Projects"**](https://noaharonov.github.io/projects/) _is a portfolio of major and minor projects relating to cybersecurity, both from school and from independent studies. Includes links, descriptions, and images for individual projects._
 
-[**"Education"**](https://noaharonov.github.io/education/) _is a summary of completed and in-progress academic degrees and diplomas. Includes links, descriptions of academic institutions, and descriptions of programs._
+###### [**"Education"**](https://noaharonov.github.io/education/) _is a summary of completed and in-progress academic degrees and diplomas. Includes links, descriptions of academic institutions, and descriptions of programs._
 
 [**"Courses"**](https://noaharonov.github.io/courses/) _is a summary of extra courses, classes, modules, and learning paths taken outside of the degree/diploma programs. Includes links, descriptions, and shows certifications earned for completion._
 
