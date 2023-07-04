@@ -147,6 +147,9 @@ nav_order: 3
   
 <div markdown='1'>
 
+- ##### [**Getting Started with Cisco Packet Tracer**](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)
+  - > ###### _"Meet our innovative network simulation and visualization tool, Cisco Packet Tracer. This virtual lab is an interactive way to practice networking, IoT, and cybersecurity – no hardware required! This course introduces you to the Cisco Packet Tracer simulation environment. Learn how to use Cisco Packet Tracer to visualize and simulate a network using everyday examples. Practice your skills with interactive virtual lab activities, and hone your problem-solving skills, too."_
+
 - ##### [**Introduction to Cybersecurity**](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US)
   - > ###### _"This introductory course takes you inside the world of cybersecurity. You will learn cybersecurity basics to protect your personal digital life and gain insights into the biggest security challenges companies, governments, and educational institutions face today. Cybersecurity professionals who can protect and defend an organization’s network are in high demand."_
 
