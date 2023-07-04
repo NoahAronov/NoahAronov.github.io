@@ -20,8 +20,11 @@ nav_order: 3
 > ###### _"The mission of WGU Cybersecurity Club is to establish a Computer Security community within the university, to provide a venue for students to improve their computer security skills, to foster strong ethics, and provide training opportunities. This club participates in a variety of collegiate, national, and international cyber security challenges and competitions. WGUCC also helps students by holding monthly meetings to discuss and practice hands-on cybersecurity concepts including, but not limited to, network security, digital forensics, penetration testing, and cryptography. Through all of this we hope to produce a security aware student body here at WGU."_
 
 <details>
+
   <summary>Courses:</summary>
   
+<div markdown='1'>
+
 - ##### **Critical Thinking: Reason and Evidence**
   - > ###### _"In this course you will learn key critical thinking concepts and how to apply them in the analysis and evaluation of reasons and evidence. The course examines the basic components of an argument, the credibility of evidence sources, the impact of bias, and how to construct an argument that provides good support for a claim."_
 
@@ -124,6 +127,8 @@ nav_order: 3
 - ##### **IT Capstone Written Project** 
   - > ###### _"The capstone project consists of a technical work proposal, the proposal’s implementation, and a post-implementation report that describes the graduate’s experience in developing and implementing the capstone project. The capstone project should be presented and approved by the course instructor in relation to the graduate’s technical emphasis."_
 
+</div>
+
 </details>
 
 ---
@@ -137,8 +142,11 @@ nav_order: 3
 > ###### _"This Junior Cybersecurity Analyst Career Path prepares you for the entry-level [Cisco Certified Support Technician (CCST) Cybersecurity](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/ccst-cybersecurity-exam.html) certification and entry-level cybersecurity positions such as Cybersecurity Technician, Cybersecurity Analyst, or Tier 1 Help Desk Support roles. You will learn vital skills like threat intelligence, network security, and risk management to protect yourself and organizations from cyber attacks."_
 
 <details>
+
   <summary>Courses:</summary>
   
+<div markdown='1'>
+
 - ##### [**Introduction to Cybersecurity**](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US)
   - > ###### _"This introductory course takes you inside the world of cybersecurity. You will learn cybersecurity basics to protect your personal digital life and gain insights into the biggest security challenges companies, governments, and educational institutions face today. Cybersecurity professionals who can protect and defend an organization’s network are in high demand."_
 
@@ -158,7 +166,7 @@ nav_order: 3
 - ##### [**Cyber Threat Management**](https://skillsforall.com/course/cyber-threat-management?courseLang=en-US)
   - > ###### _"Develop advanced knowledge that you will use in the workplace as a Cybersecurity Technician. This course explores governance in cybersecurity and threat management. Learn to develop policies and ensure your organization complies with ethics standards and legal and regulatory frameworks. You will also gain skills for managing threats, such as how to assess a network for vulnerabilities, manage risks, and respond to security incidents."_
 
-  
+</div> 
 
 </details>
 
@@ -173,10 +181,13 @@ nav_order: 3
 > ###### _"Charles Sturt University is Australia’s (and one of the world’s) largest suppliers of online education."_
 
 <details>
+
   <summary> Courses:</summary>
 
-<div markdown='1'> - ##### [**IT Basic Fundamentals**](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
-  - > ###### _"This short course aims to provide students with a fundamental understanding of simple Information Technology, Cyber Security and Networking principles and theories. This will allow students to pursue any of the postgraduate IT courses offered by CSU with the confidence that they have some of the skills required to achieve success."_ </div>
+<div markdown='1'> 
+
+- ##### [**IT Basic Fundamentals**](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
+  - > ###### _"This short course aims to provide students with a fundamental understanding of simple Information Technology, Cyber Security and Networking principles and theories. This will allow students to pursue any of the postgraduate IT courses offered by CSU with the confidence that they have some of the skills required to achieve success."_ 
 
 - ##### [**Computer Network Fundamentals**](https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/)
   - > ###### _"Design and implement functional networks; Configure, manage, and maintain essential network devices; Use devices such as switches and routers to segment network traffic and create resilient networks; Identify benefits and drawbacks of existing network configurations; and Implement network security, standards, and protocols."_ [Prepares for CompTIA Network+]
@@ -186,5 +197,7 @@ nav_order: 3
 
 - ##### [**Cyber Warfare and Terrorism**](https://www.itmasters.edu.au/free-short-course-cyber-warfare-and-terrorism/)
   - > ###### _"You will be introduced to the major classes of cyber weapons: trojans, worms, and Distributed Denial of Service as well as sophisticated hacking. You will also learn the history of nation state involvement in cyber attack, as well as the looming threat of cyber attack from terrorist organisations."_
+  
+</div>
 
-
+</details>
