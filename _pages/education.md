@@ -175,8 +175,8 @@ nav_order: 3
 <details>
   <summary> Courses:</summary>
 
-- ##### [**IT Basic Fundamentals**](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
-  - > ###### _"This short course aims to provide students with a fundamental understanding of simple Information Technology, Cyber Security and Networking principles and theories. This will allow students to pursue any of the postgraduate IT courses offered by CSU with the confidence that they have some of the skills required to achieve success."_
+<div markdown='1'> - ##### [**IT Basic Fundamentals**](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
+  - > ###### _"This short course aims to provide students with a fundamental understanding of simple Information Technology, Cyber Security and Networking principles and theories. This will allow students to pursue any of the postgraduate IT courses offered by CSU with the confidence that they have some of the skills required to achieve success."_ </div>
 
 - ##### [**Computer Network Fundamentals**](https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/)
   - > ###### _"Design and implement functional networks; Configure, manage, and maintain essential network devices; Use devices such as switches and routers to segment network traffic and create resilient networks; Identify benefits and drawbacks of existing network configurations; and Implement network security, standards, and protocols."_ [Prepares for CompTIA Network+]
