@@ -147,26 +147,26 @@ nav_order: 3
   
 <div markdown='1'>
 
-- ##### [**Getting Started with Cisco Packet Tracer**](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)
+- ##### [Getting Started with Cisco Packet Tracer](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)
   - > ###### _"Meet our innovative network simulation and visualization tool, Cisco Packet Tracer. This virtual lab is an interactive way to practice networking, IoT, and cybersecurity – no hardware required! This course introduces you to the Cisco Packet Tracer simulation environment. Learn how to use Cisco Packet Tracer to visualize and simulate a network using everyday examples. Practice your skills with interactive virtual lab activities, and hone your problem-solving skills, too."_
 
-- ##### [**Introduction to Cybersecurity**](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US)
+- ##### [Introduction to Cybersecurity](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US)
   - > ###### _"This introductory course takes you inside the world of cybersecurity. You will learn cybersecurity basics to protect your personal digital life and gain insights into the biggest security challenges companies, governments, and educational institutions face today. Cybersecurity professionals who can protect and defend an organization’s network are in high demand."_
 
-- ##### [**Networking Basics**](https://skillsforall.com/course/networking-basics?courseLang=en-US)
+- ##### [Networking Basics](https://skillsforall.com/course/networking-basics?courseLang=en-US)
   - > ###### _"This course covers the foundation of networking and network devices, media, and protocols. You will observe data flowing through a network and configure devices to connect to networks. Finally, you will learn how to use different network applications and protocols to accomplish networking tasks. The knowledge and skills you gain can give you a starting point to find a rewarding career in tech."_
 
-- ##### [**Networking Devices and Initial Configuration**](https://skillsforall.com/course/networking-devices-and-initial-configuration?courseLang=en-US)
+- ##### [Networking Devices and Initial Configuration](https://skillsforall.com/course/networking-devices-and-initial-configuration?courseLang=en-US)
   - > ###### _"This course covers the essentials of network devices and how to configure them. Learn the characteristics and benefits of Cloud and Virtualization technologies. Explore how to provide Internet Protocol (IP) addresses to devices both manually and automatically. Using this knowledge, you will calculate an IP addressing scheme, configure Cisco devices to create a small network, and test for connectivity issues."_
 
-- ##### [**Endpoint Security**](https://skillsforall.com/course/endpoint-security?courseLang=en-US)
+- ##### [Endpoint Security](https://skillsforall.com/course/endpoint-security?courseLang=en-US)
   - > ###### _"Gain the foundational knowledge you will use in the workplace as a Cybersecurity Technician. Each day billions of devices are connected to the network, and each one needs to be protected. Build the skills to secure your network all the way to the edge, including hardware, software, and media._
     > ###### _In this course, you will learn how to assess the network, operating systems, and endpoints for vulnerabilities, and how to secure the network. You will also gain skills to maintain the integrity, confidentiality, and availability in your network and your data."_
 
-- ##### [**Network Defense**](https://skillsforall.com/course/network-defense?courseLang=en-US)
+- ##### [Network Defense](https://skillsforall.com/course/network-defense?courseLang=en-US)
   - > ###### _"Gain the intermediate knowledge you will use in the workplace as a Cybersecurity Technician. This course covers ways to monitor your network and how to evaluate security alerts. Delve into the tools and techniques used to protect a network, including access control, firewalls, cloud security, and cryptography. These monitoring and defense tools, along with others, work together to create a layered defense-in-depth cybersecurity strategy. The knowledge and skills that you learn will help you defend networks against many types of attacks and quickly react to any exploits that may occur."_
 
-- ##### [**Cyber Threat Management**](https://skillsforall.com/course/cyber-threat-management?courseLang=en-US)
+- ##### [Cyber Threat Management](https://skillsforall.com/course/cyber-threat-management?courseLang=en-US)
   - > ###### _"Develop advanced knowledge that you will use in the workplace as a Cybersecurity Technician. This course explores governance in cybersecurity and threat management. Learn to develop policies and ensure your organization complies with ethics standards and legal and regulatory frameworks. You will also gain skills for managing threats, such as how to assess a network for vulnerabilities, manage risks, and respond to security incidents."_
 
 </div> 
@@ -189,16 +189,16 @@ nav_order: 3
 
 <div markdown='1'> 
 
-- ##### [**IT Basic Fundamentals**](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
+- ##### [IT Basic Fundamentals](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
   - > ###### _"This short course aims to provide students with a fundamental understanding of simple Information Technology, Cyber Security and Networking principles and theories. This will allow students to pursue any of the postgraduate IT courses offered by CSU with the confidence that they have some of the skills required to achieve success."_ 
 
-- ##### [**Computer Network Fundamentals**](https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/)
+- ##### [Computer Network Fundamentals](https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/)
   - > ###### _"Design and implement functional networks; Configure, manage, and maintain essential network devices; Use devices such as switches and routers to segment network traffic and create resilient networks; Identify benefits and drawbacks of existing network configurations; and Implement network security, standards, and protocols."_ [Prepares for CompTIA Network+]
 
-- ##### [**Enterprise Cyber Security Fundamentals**](https://www.itmasters.edu.au/free-short-course-enterprise-cyber-security-fundamentals/)
+- ##### [Enterprise Cyber Security Fundamentals](https://www.itmasters.edu.au/free-short-course-enterprise-cyber-security-fundamentals/)
   - > ###### _"Enterprise Cyber Security Fundamentals will include in-depth discussions on defending against attack — including protecting the perimeter, best practice design principles, and much more, all from the perspective of industry."_ [Prepares for CompTIA Security+]
 
-- ##### [**Cyber Warfare and Terrorism**](https://www.itmasters.edu.au/free-short-course-cyber-warfare-and-terrorism/)
+- ##### [Cyber Warfare and Terrorism](https://www.itmasters.edu.au/free-short-course-cyber-warfare-and-terrorism/)
   - > ###### _"You will be introduced to the major classes of cyber weapons: trojans, worms, and Distributed Denial of Service as well as sophisticated hacking. You will also learn the history of nation state involvement in cyber attack, as well as the looming threat of cyber attack from terrorist organisations."_
   
 </div>

@@ -28,27 +28,28 @@ Aerospace Engineering, Cybersecurity, Neurotechnology, Biosecurity, Internationa
 Reading and investigating widely into topics like these facilitates a well-rounded breadth of knowledge around future security issues. Noah seeks to study applications of breakthrough technologies in a graduate school program after completing the BSCIA.
 
 ---
+<iframe width="500" height="500" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
 
-###### [**"Home Lab / Cyber Range"**](https://noaharonov.github.io/projects/) _is a portfolio of major and minor projects relating to cybersecurity, both from school and from independent studies. Includes links, descriptions, and images for individual projects._
+###### [Home Lab / Cyber Range](https://noaharonov.github.io/projects/) _is a portfolio of major and minor projects relating to cybersecurity, both from school and from independent studies. Includes links, descriptions, and images for individual projects._
 
-###### [**"Writing / Publications"**](https://noaharonov.github.io/writing/) _is a portfolio of published and unpublished written works such as essays, articles, research papers, and books._
+###### [Writing / Publications](https://noaharonov.github.io/writing/) _is a portfolio of published and unpublished written works such as essays, articles, research papers, and books._
 
-###### [**"Degrees / Diplomas"**](https://noaharonov.github.io/education/) _is a summary of completed and in-progress academic degrees and diplomas. Includes links, descriptions of academic institutions, and descriptions of programs._
+###### [Degrees / Diplomas](https://noaharonov.github.io/education/) _is a summary of completed and in-progress academic degrees and diplomas. Includes links, descriptions of academic institutions, and descriptions of programs._
 
-###### [**"Certifications / Licenses"**](https://noaharonov.github.io/certifications/) _is a summary of professional certifications and licenses earned, with an emphasis on standard industry qualifying certifications such as those provided by CompTIA, ISC(2), SANS, TCM Security, Amazon, Microsoft, and Google._
+###### [Certifications / Licenses](https://noaharonov.github.io/certifications/) _is a summary of professional certifications and licenses earned, with an emphasis on standard industry qualifying certifications such as those provided by CompTIA, ISC(2), SANS, TCM Security, Amazon, Microsoft, and Google._
 
-###### [**"Courses / Learning Paths"**](https://noaharonov.github.io/courses/) _is a summary of extra courses, classes, modules, and learning paths taken outside of the degree/diploma programs. Includes links, descriptions, and shows certifications earned for completion._
+###### [Courses / Learning Paths](https://noaharonov.github.io/courses/) _is a summary of extra courses, classes, modules, and learning paths taken outside of the degree/diploma programs. Includes links, descriptions, and shows certifications earned for completion._
 
-###### [**"Labs / Activities"**](https://noaharonov.github.io/writing/) _is a summary of interactive labs and activities using virtual machines, Cisco Packet Tracer, GNS3, TryHackMe, CompTIA Certmaster, AWS CloudQuest, and more._
+###### [Labs / Activities](https://noaharonov.github.io/writing/) _is a summary of interactive labs and activities using virtual machines, Cisco Packet Tracer, GNS3, TryHackMe, CompTIA Certmaster, AWS CloudQuest, and more._
 
-###### [**"Experience"**](https://noaharonov.github.io/experience/) _is a summary of experience with professional and freelance roles. Includes work history and independent professional experience._
+###### [Experience](https://noaharonov.github.io/experience/) _is a summary of experience with professional and freelance roles. Includes work history and independent professional experience._
 
-###### [**"Skills"**](https://noaharonov.github.io/skills/) _is a summary of skills relating to technology and security._ 
+###### [Skills](https://noaharonov.github.io/skills/) _is a summary of skills relating to technology and security._ 
 
-###### [**"Organizations"**](https://noaharonov.github.io/writing/) _is a summary of membership in professional and academic organizations and associations._
+###### [Organizations](https://noaharonov.github.io/writing/) _is a summary of membership in professional and academic organizations and associations._
 
-###### [**"Resume"**](https://noaharonov.github.io/writing/) _is a summary of professional skills and achievements. Includes downloadable .pdf resume._
+###### [Resume](https://noaharonov.github.io/writing/) _is a summary of professional skills and achievements. Includes downloadable .pdf resume._
 
-###### [**"CV"**](https://noaharonov.github.io/cv/) _is a summary of academic skills and achievements. Includes downloadable .pdf CV._ 
+###### [CV](https://noaharonov.github.io/cv/) _is a summary of academic skills and achievements. Includes downloadable .pdf CV._ 
 
 ---
