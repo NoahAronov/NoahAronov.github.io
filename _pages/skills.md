@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /skills/
-title: skills
+title: Skills
 description: Skills and proficiencies.
-nav: true
+nav: false
 nav_order: 7
 ---
 

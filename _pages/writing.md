@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /writing/
-title: writing
+title: Writing / Publications
 description: Published and unpublished written works.
 nav: false
 #nav_order: 7

@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /certifications/
-title: certifications
+title: Certifications / Licenses
 description: Professional certifications and licenses.
-nav: true
+nav: false
 nav_order: 5
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /education/
-title: education
+title: Degrees / Diplomas
 description: Completed and in-progress degrees and diplomas.
-nav: true
+nav: false
 nav_order: 3
 ---
 

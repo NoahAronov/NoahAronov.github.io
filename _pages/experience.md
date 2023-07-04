@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: Experience
 description: Work and freelance professional experience.
-nav: true
+nav: false
 nav_order: 6
 ---
 
