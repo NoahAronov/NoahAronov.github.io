@@ -28,7 +28,6 @@ Aerospace Engineering, Cybersecurity, Neurotechnology, Biosecurity, Internationa
 Reading and investigating widely into topics like these facilitates a well-rounded breadth of knowledge around future security issues. Noah seeks to study applications of breakthrough technologies in a graduate school program after completing the BSCIA.
 
 ---
-<iframe width="500" height="500" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
 
 ###### [Home Lab / Cyber Range](https://noaharonov.github.io/projects/) _is a portfolio of major and minor projects relating to cybersecurity, both from school and from independent studies. Includes links, descriptions, and images for individual projects._
 
