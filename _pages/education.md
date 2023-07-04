@@ -6,7 +6,7 @@ description: Completed and in-progress degrees and diplomas.
 nav: false
 nav_order: 3
 ---
-
+---
 ## [Western Governors University](https://www.wgu.edu/)
 ##### [Bachelor of Science, Cybersecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html)
 ##### **2023** (Expected)
