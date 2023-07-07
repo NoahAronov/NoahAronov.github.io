@@ -14,6 +14,6 @@ children:
     - title: Courses / Learning Paths
       permalink: /courses/
     - title: divider
-    - title: Labs / Activities
+    - title: Labs / Simulations
       permalink: /labs/
 ---

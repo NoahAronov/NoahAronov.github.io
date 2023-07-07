@@ -9,7 +9,7 @@ nav: false
 
 ---
 
-## [Western Governors University](https://www.wgu.edu/)
+### [Western Governors University](https://www.wgu.edu/)
 <details>
 
 <summary>Labs: (50)</summary>
@@ -20,10 +20,10 @@ nav: false
    > ###### **CompTIA + Skillable**
 
 2. > ##### _Virtual Workbench Lab: Install Power Supplies and Cooling._ 
-   > ###### **CompTIA + Skillable**
+    > ###### **CompTIA + Skillable**
 
 3. > ##### _Virtual Workbench Lab: Install and Configure SSD Storage._
-   > ###### **CompTIA + Skillable**
+    > ###### **CompTIA + Skillable**
 
 4. > ##### _Virtual Workbench Lab: Install RAM._
     > ###### **CompTIA + Skillable**
@@ -171,7 +171,7 @@ nav: false
 
 ---
 
-## [Cisco Networking Academy](https://www.netacad.com/)
+### [Cisco Networking Academy](https://www.netacad.com/)
 
 <details>
 
@@ -385,7 +385,49 @@ nav: false
 
 ---
 
-## [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+### [TryHackMe](https://tryhackme.com/)
+> ###### _""_
+
+<details>
+
+<summary>Rooms: ()</summary>
+
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+### [Hack The Box](https://www.hackthebox.eu/)
+> ###### _""_
+
+<details>
+
+<summary>Flags: ()</summary>
+
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+### [Hack The Box Academy](https://academy.hackthebox.eu/)
+> ###### _""_
+
+<details>
+
+<summary>Modules: ()</summary>
+
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+### [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 > ###### _"AWS Cloud Quest is the only role-playing game to help you build practical AWS Cloud skills. Choose your role—Cloud Practitioner, Serverless Developer, Solutions Architect, Machine Learning Specialist, Security Specialist, or Data Analytics Specialist—then learn and apply cloud skills to help the citizens of your virtual city. Once you finish all the assignments in your role, showcase your achievement with a digital badge."_
 
 <details>
@@ -417,10 +459,52 @@ nav: false
 
 --- 
 
-## [World of Haiku](https://www.worldofhaiku.com/)
+### [OverTheWire](https://overthewire.org/wargames/)
+> ###### _""_
+
+<details>
+
+<summary>Labs: ()</summary>
+
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+### [picoCTF](https://picoctf.org/)
+> ###### _""_
+
+<details>
+
+<summary>Flags: ()</summary>
+
+<div markdown="1">
+
+</div>
+</details>
+
+---
+
+### [Blue Team Labs Online](https://blueteamlabs.online/)
+> ###### _""_
+
+ <details>
+
+  <summary>Rooms: ()</summary>
+
+   <div markdown="1">
+
+   </div>
+ </details>
+
+---
+
+### [World of Haiku](https://www.worldofhaiku.com/)
 > ###### _"Explore the captivating world of Haiku, a thrilling cyberpunk RPG where survival depends on your hacking skills. As a freelance hacker team operative, you'll need to constantly learn and improve your skills to outsmart the powerful megacorporations and government agencies vying for control. With each mission, you'll gain a deeper understanding of how the digital world operates, from controlling cyber tools like JohnTheRipper and Nmap, to surfing the Grid and hacking into megacorporations."_
 
 ---
 
-## [Bitburner](https://github.com/danielyxie/bitburner)
+### [Bitburner](https://github.com/danielyxie/bitburner)
 > ###### _"Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG."_
