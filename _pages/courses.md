@@ -43,6 +43,7 @@ nav_order: 4
 > ###### _"The Federal Virtual Training Environment (FedVTE) is a free online, on-demand cybersecurity training system for government personnel and veterans. Managed by DHS, FedVTE contains more than 800 hours of training on topics such as ethical hacking and surveillance, risk management, and malware analysis."_
 
 <details>
+
 <summary>Courses: (5)</summary>
 
 <div markdown="1">
@@ -71,17 +72,24 @@ nav_order: 4
    > ###### _Lecture presented by the Department of Homeland Security._
 
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
+
+</div>
+
 </details>
 
 ---
 ### [United Nations Office on Drugs and Crime](https://www.unodc.org/elearning/index.html)
 > ###### _"UNODCs online eLearning courses deliver trainings to a community of over 50,000 Member State officials on international security threats such as transnational organized crime, terrorism, illicit drugs, trafficking in persons and smuggling of migrants, wildlife and forest crime, cybercrime as well as provide training on border control, intelligence analysis, gender issues, anticorruption, HIV/AIDS and human rights. These courses, developed by leading international experts, enable law enforcement officers and other professionals to expand their knowledge and stay up to date with the international community's fight against illicit drugs, crime and terrorism experts in line with United Nations standards and norms and other relevant international instruments."_
-<details><summary>Courses: (1)</summary>
+
+<details>
+
+<summary>Courses: (1)</summary>
 
 <div markdown="1">
 
 1. ##### [Understanding International Organized Crime](https://www.unodc.org/elearning/en/courses/public.html)
    > ###### _"This self-paced module focuses on understanding organized crime, organized criminal groups and provisions of UN convention on organized crime. It also focuses on the social and criminal justice responses to organized crime, including law enforcement tools and prosecution strategies."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#un1))
 
 </div>
@@ -96,15 +104,15 @@ nav_order: 4
 
 <div markdown="1">
 
-1. [Lethal Autonomous Weapon Systems](https://www.disarmamenteducation.org/index.php?go=education&do=training-laws)
-    > ###### _"Upon completion of this course, you will be able to:_
-    > ######  _- Justify the significance of disarmament and non-proliferation_
-    > ######  _- Describe the role the United Nations and the UN Office for Disarmament Affairs (UNODA) play in addressing disarmament issues_
-    > ######  _- Describe what lethal autonomous weapon systems are, the risks they pose to international security, and the ethical and legal concerns they raise_
-    > ######  _- Present international efforts that have aimed at regulating the development and use of lethal autonomous weapon systems, including the establishment of the Group of Governmental Experts_
-    > ######  _- Understand the views advocated by governments, civil society organisations and the scientist community about the issue of lethal autonomous weapon systems."_
+1. ##### [Lethal Autonomous Weapon Systems](https://www.disarmamenteducation.org/index.php?go=education&do=training-laws)
+   > ###### _"Upon completion of this course, you will be able to:_
+   > ######  _- Justify the significance of disarmament and non-proliferation_
+   > ######  _- Describe the role the United Nations and the UN Office for Disarmament Affairs (UNODA) play in addressing disarmament issues_
+   > ######  _- Describe what lethal autonomous weapon systems are, the risks they pose to international security, and the ethical and legal concerns they raise_
+   > ######  _- Present international efforts that have aimed at regulating the development and use of lethal autonomous weapon systems, including the establishment of the Group of Governmental Experts_
+   > ######  _- Understand the views advocated by governments, civil society organisations and the scientist community about the issue of lethal autonomous weapon systems."_
 
-     ###### ([Certificate](https://noaharonov.github.io/cert-list/#un2))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#un2))
 
 </div>
 
@@ -118,7 +126,7 @@ nav_order: 4
 
 <div markdown="1">
 
-1. [Space Law for New Space Actors]()
+1. ##### [Space Law for New Space Actors]()
     > ###### _"In this course you will learn about the structure and fundamental principles of international space law and policy."_
 
      ###### ([Certificate](https://noaharonov.github.io/cert-list/#un3))
