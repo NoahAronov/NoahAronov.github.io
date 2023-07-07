@@ -11,11 +11,11 @@ nav_order: 4
 ### Contents:
 
 1. [Department of Homeland Security](#department-of-homeland-security) - Courses: (5)
-2. [United Nations Office on Drugs and Crime](#united-nations-office-on-drugs-and-crime) - Courses: (5)
-3. [United Nations Office for Disarmament Affairs](#united-nations-office-for-disarmament-affairs) - Courses: (5)
-4. [United Nations Office for Outer Space Affairs](#united-nations-office-for-outer-space-affairs) - Courses: (5)
+2. [United Nations Office on Drugs and Crime](#united-nations-office-on-drugs-and-crime) - Courses: (1)
+3. [United Nations Office for Disarmament Affairs](#united-nations-office-for-disarmament-affairs) - Courses: (1)
+4. [United Nations Office for Outer Space Affairs](#united-nations-office-for-outer-space-affairs) - Courses: (1)
 5. [TCM Academy](#tcm-academy) - Courses: (5)
-6. [LinkedIn Learning](#linkedin-learning) - Courses: (5)
+6. [LinkedIn Learning](#linkedin-learning) - Courses: (2)
 7. [AWS Educate](#aws-educate) - Courses: (5)
 8. [AWS Training and Certification](#aws-training-and-certification) - Courses: (5)
 9. [The Linux Foundation](#the-linux-foundation) - Courses: (5)
@@ -50,45 +50,84 @@ nav_order: 4
 1. ##### [Cyberessentials](https://fedvte.usalearning.gov/public_fedvte.php)
    > ###### _"This course is based on the DHS Cybersecurity and Infrastructure Security Agency (CISA) guidelines, called Cyber Essentials. CISA's Cyber Essentials is a guide for leaders of small businesses, as well as leaders of small and local government agencies to develop an actionable understanding of where to start implementing organizational cybersecurity practices... The CISA Cyber Essentials are a starting point for building a culture of cyber readiness."_
 
-   <details><summary></summary>
-    {% include figure.html path="assets/img/fed1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-   </details> 
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed1))
 
 2. ##### [Incident Management Response: Preventing Business Email Attacks](https://fedvte.usalearning.gov/public_fedvte.php)
    > ###### _Lecture presented by the Department of Homeland Security._
 
-    <details><summary></summary>
-     {% include figure.html path="assets/img/fed2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </details>
+    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed2))
 
 3. ##### [Incident Management Response: Securing Internet-Accessible Systems](https://fedvte.usalearning.gov/public_fedvte.php)
    > ###### _Lecture presented by the Department of Homeland Security._
 
-    <details><summary></summary>
-     {% include figure.html path="assets/img/fed3.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </details>
+    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed3))
 
 4. ##### [Incident Management Response: Understanding DNS Attacks](https://fedvte.usalearning.gov/public_fedvte.php)
     > ###### _Lecture presented by the Department of Homeland Security._
 
-    <details><summary></summary>
-     {% include figure.html path="assets/img/fed4.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </details>
+    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
 
 5. ##### [Incident Management Response: Understanding Ransomware Attacks](https://fedvte.usalearning.gov/public_fedvte.php)
     > ###### _Lecture presented by the Department of Homeland Security._
 
-    <details><summary></summary>
-     {% include figure.html path="assets/img/fed5.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </details>
+    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
 </details>
 
 ---
-### [United Nations Office on Drugs and Crime]()
+### [United Nations Office on Drugs and Crime](https://www.unodc.org/elearning/index.html)
+> ###### _"UNODCs online eLearning courses deliver trainings to a community of over 50,000 Member State officials on international security threats such as transnational organized crime, terrorism, illicit drugs, trafficking in persons and smuggling of migrants, wildlife and forest crime, cybercrime as well as provide training on border control, intelligence analysis, gender issues, anticorruption, HIV/AIDS and human rights. These courses, developed by leading international experts, enable law enforcement officers and other professionals to expand their knowledge and stay up to date with the international community's fight against illicit drugs, crime and terrorism experts in line with United Nations standards and norms and other relevant international instruments."_
+<details><summary>Courses: (1)</summary>
+
+<div markdown="1">
+
+1. ##### [Understanding International Organized Crime](https://www.unodc.org/elearning/en/courses/public.html)
+   > ###### _"This self-paced module focuses on understanding organized crime, organized criminal groups and provisions of UN convention on organized crime. It also focuses on the social and criminal justice responses to organized crime, including law enforcement tools and prosecution strategies."_
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#un1))
+
+</div>
+
+</details>
+
 ---
-### [United Nations Office for Disarmament Affairs]()
+### [United Nations Office for Disarmament Affairs](https://www.disarmamenteducation.org/courses/index.html)
+> ###### _"Inaugurated in 2012, the Vienna Office of the United Nations Office for Disarmament Affairs (UNODA) is primarily involved in providing disarmament education and therefore building capacity among various audiences, such as the general public with no prior knowledge of disarmament issues, young professionals, educators, diplomats, government officials and experts. To this end, the Office has developed an interactive global online learning platform, the Disarmament Education Dashboard that aims at providing learners around the globe with first-hand expertise from major international organizations and practitioners in all areas of disarmament, non-proliferation and arms control, and other cross-cutting issues such as gender, youth and development."_
+
+<details><summary>Courses: (1)</summary>
+
+<div markdown="1">
+
+1. [Lethal Autonomous Weapon Systems](https://www.disarmamenteducation.org/index.php?go=education&do=training-laws)
+    > ###### _"Upon completion of this course, you will be able to:_
+    > ######  _- Justify the significance of disarmament and non-proliferation_
+    > ######  _- Describe the role the United Nations and the UN Office for Disarmament Affairs (UNODA) play in addressing disarmament issues_
+    > ######  _- Describe what lethal autonomous weapon systems are, the risks they pose to international security, and the ethical and legal concerns they raise_
+    > ######  _- Present international efforts that have aimed at regulating the development and use of lethal autonomous weapon systems, including the establishment of the Group of Governmental Experts_
+    > ######  _- Understand the views advocated by governments, civil society organisations and the scientist community about the issue of lethal autonomous weapon systems."_
+
+     ###### ([Certificate](https://noaharonov.github.io/cert-list/#un2))
+
+</div>
+
+</details>
+
 ---
-### [United Nations Office for Outer Space Affairs]()
+### [United Nations Office for Outer Space Affairs](https://elearningunodc.org/local/cohorts/loginUNOOSA.php)
+> ###### _"The UNOOSA online eLearning platform offers training opportunities to the United Nations Member States as well as individuals on topics related to international space law, policy, and economy. These courses enable professionals as well as space enthusiasts to deepen their knowledge and keep abreast of the latest developments in the space sector. The courses aim to increase the global awareness of the benefits enabled by space exploration and utilization, enhance the understanding of space law instruments and their application, and help all States, especially developing countries, better access and utilize space technology and applications."_
+
+<details><summary>Courses: (1)</summary>
+
+<div markdown="1">
+
+1. [Space Law for New Space Actors]()
+    > ###### _"In this course you will learn about the structure and fundamental principles of international space law and policy."_
+
+     ###### ([Certificate](https://noaharonov.github.io/cert-list/#un3))
+
+</div>
+
+</details>
+
+
 ---
 ### [TCM Academy]()
 ---
