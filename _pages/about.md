@@ -39,7 +39,7 @@ Reading and investigating widely into topics like these facilitates a well-round
 
 ###### [Courses / Learning Paths](https://noaharonov.github.io/courses/) _is a summary of extra courses, classes, modules, and learning paths taken outside of the degree/diploma programs. Includes links, descriptions, and shows certifications earned for completion._
 
-###### [Labs / Activities](https://noaharonov.github.io/writing/) _is a summary of interactive labs and activities using virtual machines, Cisco Packet Tracer, GNS3, TryHackMe, CompTIA Certmaster, AWS CloudQuest, and more._
+###### [Labs / Simulations](https://noaharonov.github.io/writing/) _is a summary of interactive labs, games, and sims. Includes virtual machines, Cisco Packet Tracer, GNS3, TryHackMe, CompTIA Certmaster, AWS CloudQuest, World of Haiku, and more._
 
 ###### [Experience](https://noaharonov.github.io/experience/) _is a summary of experience with professional and freelance roles. Includes work history and independent professional experience._
 
