@@ -127,14 +127,13 @@ nav_order: 4
 <div markdown="1">
 
 1. ##### [Space Law for New Space Actors]()
-    > ###### _"In this course you will learn about the structure and fundamental principles of international space law and policy."_
+   > ###### _"In this course you will learn about the structure and fundamental principles of international space law and policy."_
 
-     ###### ([Certificate](https://noaharonov.github.io/cert-list/#un3))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#un3))
 
 </div>
 
 </details>
-
 
 ---
 ### [TCM Academy]()

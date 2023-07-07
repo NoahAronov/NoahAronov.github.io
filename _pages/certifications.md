@@ -101,15 +101,24 @@ nav_order: 5
 
 1. ##### [Business Management Essentials Certified](https://www.msicertified.com/certifications/business-management-essentials-certified/) (**BMEC**)
    ##### **2023**, February
-    > ###### _"The Business Management Essentials Certified (BMEC) certification covers the basics of business management and the subjects that a business leader should be familiar with. Business Managers need to have a strong understanding of all aspects of their organization, from accounting practices to business etiquette.The Management and Strategy Institute’s Business Management Essentials certification program will start you on your journey to being a leader within the business community."_
-   ###### [Certificate](https://noaharonov.github.io/cert-list/#msi1) 
+   > ###### _"The Business Management Essentials Certified (BMEC) certification covers the basics of business management and the subjects that a business leader should be familiar with. Business Managers need to have a strong understanding of all aspects of their organization, from accounting practices to business etiquette.The Management and Strategy Institute’s Business Management Essentials certification program will start you on your journey to being a leader within the business community."_
+   
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#msi1)) 
 
 2. ##### [Project Management Essentials Certified](https://www.msicertified.com/certifications/project-management-essentials-certified/) (**PMEC**)
    ##### **2023**, February
    > ###### _"A “project” is a temporary endeavor designed to produce a unique product, service or result.  Project managers have the responsibility of planning and proper execution of a project.  Using the included study material, you’ll learn why some projects fail while others are successful.  You’ll learn the  stages of Project Management – Initiating, Planning, Executing, Monitoring, and Closing. Having our Free Project Management Certification on your resumé can show potential employers you have a general understanding of the importance of Project Management and the steps necessary to ensure a project is successful."_
-   ###### [Certificate](https://noaharonov.github.io/cert-list/#msi2)
+
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#msi2))
 
 3. ##### [Lean Sigma Six White Belt Certified](https://www.msicertified.com/certifications/business-management-essentials-certified/) (**LSSWB**)
    ##### **2023**, February
    > ###### _"The Lean Six Sigma White Belt certification has been developed exclusively for the Management and Strategy Institute and designed to give the student a brief overview of Six Sigma and Lean principles. This program will cover exactly what Six Sigma is and why it is being used in businesses around the world to streamline operations and eliminate waste."_
-    ###### [Certificate](https://noaharonov.github.io/cert-list/#msi3)
+
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#msi3))
+
+</div>
+
+</details>
+
+---
