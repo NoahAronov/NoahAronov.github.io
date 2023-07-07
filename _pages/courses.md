@@ -55,22 +55,22 @@ nav_order: 4
 2. ##### [Incident Management Response: Preventing Business Email Attacks](https://fedvte.usalearning.gov/public_fedvte.php)
    > ###### _Lecture presented by the Department of Homeland Security._
 
-    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed2))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed2))
 
 3. ##### [Incident Management Response: Securing Internet-Accessible Systems](https://fedvte.usalearning.gov/public_fedvte.php)
    > ###### _Lecture presented by the Department of Homeland Security._
 
-    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed3))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed3))
 
 4. ##### [Incident Management Response: Understanding DNS Attacks](https://fedvte.usalearning.gov/public_fedvte.php)
-    > ###### _Lecture presented by the Department of Homeland Security._
+   > ###### _Lecture presented by the Department of Homeland Security._
 
-    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
 
 5. ##### [Incident Management Response: Understanding Ransomware Attacks](https://fedvte.usalearning.gov/public_fedvte.php)
-    > ###### _Lecture presented by the Department of Homeland Security._
+   > ###### _Lecture presented by the Department of Homeland Security._
 
-    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fed4))
 </details>
 
 ---
