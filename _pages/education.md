@@ -168,7 +168,7 @@ nav_order: 3
 5. ##### [Endpoint Security](https://skillsforall.com/course/endpoint-security?courseLang=en-US)
    > ###### _"Gain the foundational knowledge you will use in the workplace as a Cybersecurity Technician. Each day billions of devices are connected to the network, and each one needs to be protected. Build the skills to secure your network all the way to the edge, including hardware, software, and media._
    > ###### _In this course, you will learn how to assess the network, operating systems, and endpoints for vulnerabilities, and how to secure the network. You will also gain skills to maintain the integrity, confidentiality, and availability in your network and your data."_
-   
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cisco5))
 
 6. ##### [Network Defense](https://skillsforall.com/course/network-defense?courseLang=en-US)
@@ -199,15 +199,19 @@ nav_order: 3
 
 1. ##### [IT Basic Fundamentals](https://www.itmasters.edu.au/free-short-course-it-basic-fundamentals/)
    > ###### _"This short course aims to provide students with a fundamental understanding of simple Information Technology, Cyber Security and Networking principles and theories. This will allow students to pursue any of the postgraduate IT courses offered by CSU with the confidence that they have some of the skills required to achieve success."_ 
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#sturt1))
 
 2. ##### [Computer Network Fundamentals](https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/)
    > ###### _"Design and implement functional networks; Configure, manage, and maintain essential network devices; Use devices such as switches and routers to segment network traffic and create resilient networks; Identify benefits and drawbacks of existing network configurations; and Implement network security, standards, and protocols."_ [Prepares for CompTIA Network+]
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#sturt2))
 
 3. ##### [Enterprise Cyber Security Fundamentals](https://www.itmasters.edu.au/free-short-course-enterprise-cyber-security-fundamentals/)
    > ###### _"Enterprise Cyber Security Fundamentals will include in-depth discussions on defending against attack — including protecting the perimeter, best practice design principles, and much more, all from the perspective of industry."_ [Prepares for CompTIA Security+]
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#sturt3))
 
 4. ##### [Cyber Warfare and Terrorism](https://www.itmasters.edu.au/free-short-course-cyber-warfare-and-terrorism/)
    > ###### _"You will be introduced to the major classes of cyber weapons: trojans, worms, and Distributed Denial of Service as well as sophisticated hacking. You will also learn the history of nation state involvement in cyber attack, as well as the looming threat of cyber attack from terrorist organisations."_
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#sturt4))
   
 </div>
 

@@ -50,5 +50,97 @@ nav: false
 {% include figure.html path="assets/img/cisco5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
+### sturt1
+{% include figure.html path="assets/img/sturt1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### sturt2
+{% include figure.html path="assets/img/sturt2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### sturt3
+{% include figure.html path="assets/img/sturt3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### sturt4
+{% include figure.html path="assets/img/sturt4.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
+### cybrary1
+{% include figure.html path="assets/img/cybrary1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary2
+{% include figure.html path="assets/img/cybrary2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary3
+{% include figure.html path="assets/img/cybrary3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary4
+{% include figure.html path="assets/img/cybrary4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary5
+{% include figure.html path="assets/img/cybrary5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary6
+{% include figure.html path="assets/img/cybrary6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary7
+{% include figure.html path="assets/img/cybrary7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary8
+{% include figure.html path="assets/img/cybrary8.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary9
+{% include figure.html path="assets/img/cybrary9.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary10
+{% include figure.html path="assets/img/cybrary10.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary11
+{% include figure.html path="assets/img/cybrary11.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cybrary12
+{% include figure.html path="assets/img/cybrary12.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
+---
+### fort1 
+{% include figure.html path="assets/img/fort1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### fort2
+{% include figure.html path="assets/img/fort2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### fort3
+{% include figure.html path="assets/img/fort3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### fort4
+{% include figure.html path="assets/img/fort4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### aws1
+{% include figure.html path="assets/img/aws1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### aws2
+{% include figure.html path="assets/img/aws2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### aws3
+{% include figure.html path="assets/img/aws3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### ci1
+{% include figure.html path="assets/img/ci1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### ci2
+{% include figure.html path="assets/img/ci2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### icttf1
+{% include figure.html path="assets/img/icttf1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### linkedin1
+{% include figure.html path="assets/img/linkedin1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin2
+{% include figure.html path="assets/img/linkedin2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin3
+{% include figure.html path="assets/img/linkedin3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### opswat1
+{% include figure.html path="assets/img/opswat1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### thm1
+{% include figure.html path="assets/img/thm1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### thm2
+{% include figure.html path="assets/img/thm2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### udemy1
+{% include figure.html path="assets/img/udemy1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### lf1
+{% include figure.html path="assets/img/lf1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### codered1
+{% include figure.html path="assets/img/codered1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---

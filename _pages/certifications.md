@@ -24,7 +24,7 @@ nav_order: 5
     > - ###### _Evolving core technologies from cloud virtualization and IoT device security to data management and scripting_
     > - ###### _Multiple operating systems, when to use them and how to keep them running properly_
     > - ###### _Reflects the changing nature of the job, including how to assess if it’s best to fix something on site, or send it to a specialized provider."_
-   - ###### [Certificate](https://www.comptia.org/certifications/a)
+   ###### ([Certificate](https://www.comptia.org/certifications/a))
 
 2. ##### **CompTIA** [Network+](https://www.comptia.org/certifications/network)
    ##### **2023** (Expected)
@@ -35,7 +35,7 @@ nav_order: 5
     > - ###### _Monitor network activity, identifying performance and availability issues_
     > - ###### _Implement network hardening techniques_
     > - ###### _Manage, configure and troubleshoot network infrastructure."_
-   - ###### [Certificate](https://www.comptia.org/certifications/network)
+   ###### ([Certificate](https://www.comptia.org/certifications/network))
 
 3. ##### **CompTIA** [Security+](https://www.comptia.org/certifications/security)
    ##### **2023** (Expected)
@@ -44,47 +44,47 @@ nav_order: 5
     > - ###### _Monitor and secure hybrid environments, including cloud, mobile and IoT_
     > - ###### _Operate with an awareness of applicable laws and policies, including principles of governance, risk and compliance_
     > - ###### _Identify, analyze and respond to security events and incidents."_ 
-   - ###### [Certificate](https://www.comptia.org/certifications/security)
+   ###### ([Certificate](https://www.comptia.org/certifications/security))
 
 4. ##### **CompTIA** [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
    ##### **2023** (Expected)
    > ###### _"The CompTIA Cybersecurity Analyst (CySA+) certification verifies that successful candidates have the knowledge and skills required to detect and analyze indicators of malicious activity, understand threat intelligence and threat management, respond to attacks and vulnerabilities, perform incident response, and report and communicate related activity."_
-   - ###### [Certificate](https://www.comptia.org/certifications/cybersecurity-analyst)
+   ###### ([Certificate](https://www.comptia.org/certifications/cybersecurity-analyst))
 
 5. ##### **CompTIA** [Project+](https://www.comptia.org/certifications/project)
    ##### **2023** (Expected)
    > ###### _"CompTIA Project+ is ideal for IT professionals who need to manage smaller, less-complex projects as part of their other job duties but still have foundational project management skills. Project+ is versatile because it covers essential project management concepts beyond the scope of just one methodology or framework."_
-   - ###### [Certificate](https://www.comptia.org/certifications/project)
+   ###### ([Certificate](https://www.comptia.org/certifications/project))
 
 6. ##### **CompTIA** [PenTest+](https://www.comptia.org/certifications/pentest)
    ##### **2023** (Expected)
    > ###### _"The CompTIA PenTest+ will certify the successful candidate has the knowledge and skills required to plan and scope a penetration testing engagement including vulnerability scanning, understand legal and compliance requirements, analyze results, and produce a written report with remediation techniques."_
-   - ###### [Certificate](https://www.comptia.org/certifications/pentest)
+   ###### ([Certificate](https://www.comptia.org/certifications/pentest))
 
 7. ##### **CompTIA** [IT Operations Specialist](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CIOS**)
    ##### (**Stackable**: CompTIA A+ & CompTIA Network+)
    ##### **2023** (Expected)
-   - ###### [Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+   ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
 
 8. ##### **CompTIA** [Secure Infrastructure Specialist](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CSIS**)
    ##### (**Stackable**: CompTIA A+, CompTIA Network+, and CompTIA Security+)
    ##### **2023** (Expected)
-   - ###### [Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+   ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
 
 9. ##### **CompTIA** [Security Analytics Professional](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CSAP**)
    ##### (**Stackable**: CompTIA Security+ & CompTIA CySA+)
    ##### **2023** (Expected)
-   - ###### [Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+   ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
 
 10. ##### **CompTIA** [Network Vulnerability Assessment Professional](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CNVP**)
     ##### (**Stackable**: CompTIA Security+ & CompTIA PenTest+)
     ##### **2023** (Expected)
-    - ###### [Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+    ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
 
 11. ##### **CompTIA** [Network Security Professional](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CNSP**)
     ##### (**Stackable**: CompTIA Security+, CompTIA Pentest+, & CompTIA CySA+)
     ##### **2023** (Expected)
-    - ###### [Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+    ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
 
 </div>
 </details>
@@ -122,3 +122,24 @@ nav_order: 5
 </details>
 
 ---
+
+### [Fortinet](https://fortinet.com/)
+> ###### _"Fortinet is the only cybersecurity company listed in both the Nasdaq 100 and S&P 500... Fortinet is a cybersecurity company with headquarters in Sunnyvale, California. The company develops and sells security solutions like firewalls, endpoint security and intrusion detection systems."_
+
+<details>
+
+<summary>Certifications (2):</summary>
+
+<div markdown="1">
+
+1. ##### [Network Security Expert Level 1: Certified Associate](https://www.fortinet.com/training/certification/) (**NSE 1**)
+   ##### **2023**, February
+   > ###### _"The Information Security Awareness course explores real cyber threats that pose a danger to you and me. The course offers measures that you can take to protect yourself and others from harm. It also explains basic terms and concepts that will help you in your journey to better understand cybersecurity."_
+   
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fort1))
+
+2. ##### [Network Security Expert Level 2: Certified Associate](https://www.fortinet.com/training/certification/) (**NSE 2**)
+   ##### **2023**, February
+   > ###### _"In NSE 1 you learned about the threat landscape and the problems facing organizations and individuals. In this course, The Evolution of Cybersecurity, you will learn about the types of security products that have been created by security vendors to address those problems."_
+   
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#fort2))
