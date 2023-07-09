@@ -174,6 +174,7 @@ nav_order: 4
 ##### **Learning Path**: [Understanding Quantum Computing](https://www.linkedin.com/learning/paths/understanding-quantum-computing)
 ##### **2023**, March
 > ###### _"Want the fundamentals of quantum computing? In these courses, learn how quantum computing is computing disrupting classical computing, and potential benefits and risks. Learn about cloud-based quantum computing: How quantum services benefit your applications, which cloud vendors offer cloud-based quantum services, and the cost implications."_
+
 ###### ([Certificate](https://noaharonov.github.io/cert-list/#linkedin1))
 
 <details>
@@ -185,11 +186,13 @@ nav_order: 4
 1. ##### [Introduction to Quantum Computing](https://www.linkedin.com/learning/introduction-to-quantum-computing)
    ##### **2023**, March
    > ###### _"Classical computing, which gave us the current digital age, is about to be displaced by a more exciting, powerful, and radically different form of computing. This technology—known as quantum computing—operates under completely different scientific principles and has the potential to provide a massive technological leap forward that will enable breakthroughs in artificial intelligence, medicine, chemistry, space capabilities, mixed reality, and so much more. Those left behind will find it hard to catch up. Learn all about it here, as well as how to apply quantum computing to your own (and your organization's) outlook for the future. In plain language, instructor Jonathan Reichental lays out what quantum computing is and details its applications, opportunities, and risks."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#linkedin3))
 
 2. ##### [Cloud Quantum Computing Essentials](https://www.linkedin.com/learning/cloud-quantum-computing-essentials/)
    ##### **2023**, March
    > ###### _"Cloud-based quantum computing uses uploaded quantum software that can then be run in the same way other types of cloud computing services can be deployed. This course covers when and how to use cloud quantum services for implementing quantum accelerations for your applications. Instructor Lynn Langit helps you understand why you should consider using cloud quantum services, and under which conditions they are recommended and not recommended. Understand the true cost of deployment and management of cloud-based quantum services from AWS, Azure, IBM, and other vendors. Lynn provides instruction for allocating and testing cloud quantum computing services as well as best practices for working with quantum simulators—local as well as cloud-based. This course also includes coverage of cloud quantum library authentication, deployment, and monitoring tips and techniques."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#linkedin2))
 
 </div>
@@ -217,6 +220,7 @@ nav_order: 4
 ---
 ### [AWS Training and Certification]() (**Amazon**)
 > ###### _"Organizations need individuals with cloud skills to help transform their business. AWS Training and Certification delivered a 234% ROI, as quantified by Forrester, by upskilling your existing workforce.* Our content is created by experts at AWS and updated regularly so you can keep your cloud skills fresh."_
+
 ##### **Learning Path**: [Cloud Essentials](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
 ##### **2023** (Expected)
 > ###### _"This Learning Plan is designed to help individuals who are new to AWS Cloud technology and seek an overall understanding of the AWS Cloud, independent of specific technical roles. The digital training included in this Learning Plan will expose you to foundational AWS Cloud concepts, AWS services, security, architecture, pricing, and support. This Learning Plan can also help prepare you for the AWS Certified Cloud Practitioner certification exam."_
@@ -230,16 +234,19 @@ nav_order: 4
 1. ##### [Job Roles in the Cloud](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
    ##### **2023**, March
    > ###### _"This course provides business decision makers a high-level picture of job roles in the AWS Cloud and how they compare to on-premises IT job roles. Learners explore four cloud job roles and their competencies to understand how to best transition on-premises job roles to cloud job roles."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#aws1))
 
 2. ##### [AWS Billing and Cost Management](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
    ##### **2023**, March
    > ###### _"n this course, you will learn about the AWS Billing and Cost Management service, and the functionality it offers. You will learn about some of the features available to help you analyze your cloud spending, as well as some of the features available to help you manage cloud spending. You will also have access to additional resources to dive deeper into the features covered in the course."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#aws2))
 
 3. ##### [AWS Foundations: Getting Started with the AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
    ##### **2023**, March
    > ###### _"Learn about the foundations of getting started in the AWS Cloud. In this course, you learn about the AWS Cloud architecture and the services in the Compute, Storage, Database, Networking, and Security categories. This course can help you can build and validate an overall understanding of the AWS Cloud, key terminology, and help advance your AWS Cloud skills."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#aws3))
 
 4. ##### [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
@@ -268,6 +275,7 @@ nav_order: 4
 1. ###### [Fundamentals of Quantum Computing](https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/) (**LFQ101**)
    ##### **2023**, February
    > ###### _"Quantum computing brings fundamental change to the nature of what computing can accomplish. Quantum Computing has been discussed for decades, with promises of computing power and features unimaginable using current technology. This course dispels some of the myths surrounding quantum computing, explaining what it is at the moment, as well as why it is an exciting and essential technology to understand and embrace."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#lf1))
 
 </div>
@@ -306,11 +314,13 @@ nav_order: 4
 1. ##### [Maltego CaseFile](https://courses.thecyberinst.org/courses/casefile)
    ##### **2023**, February
    > ###### _"This is a short course for using the Maltego's free CaseFile tool to analyse information and evidence for investigation, intelligence or research purposes."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#ci1))
 
 2. ##### [Open-Source Intelligence (OSINT) Mini](https://courses.thecyberinst.org/courses/osintmini)
    ##### **2023**, February
    > ###### _"Gain an understanding of open source intelligence, investigations and research, purpose and objectives; Learn about sources of information together with effective google and social media searching; How to document and record information collected; A short overview of Virtual Private Networks and their purpose; Full access to our OSINT support page with tools and forum."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#ci2))
 
 </div>
@@ -331,11 +341,13 @@ nav_order: 4
 1. ##### [Information Security Awareness](https://training.fortinet.com/course/view.php?id=15079)
    ##### **2023**, February
    > ###### _"The Information Security Awareness course explores real cyber threats that pose a danger to you and me. The course offers measures that you can take to protect yourself and others from harm. It also explains basic terms and concepts that will help you in your journey to better understand cybersecurity."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fort4))
 
 2. ##### [The Evolution of Cybersecurity](https://training.fortinet.com/course/view.php?id=4549)
    ##### **2023**, February
    > ###### _"In this course, you will learn about products that security vendors have created to address cyberthreats. This course traces the evolution of network security products from simple to sophisticated, as organizations encountered increasingly complex cyberattacks._"
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#fort3))
 
 </div>
@@ -346,6 +358,7 @@ nav_order: 4
 ---
 ### [AttackIQ Academy](https://www.academy.attackiq.com/)
 > ###### _"In free courses taught by cybersecurity practitioners at the cutting edge of the field, students gain realistic, hands-on experience in building a threat-informed defense to improve cybersecurity effectiveness. AttackIQ Academy includes foundational, intermediate, and advanced courses in operationalizing MITRE ATT&CK®, Uniting Threat and Risk Management with NIST 800-53 and ATT&CK, Purple Teaming, and Breach and Attack Simulation, among others. Detailed learning paths guide students as they achieve course badges and certifications. AttackIQ Academy is part of the Informed Defender Community and is provided as a public service."_
+
 
 ##### **Learning Path**: [Summer School 2023](https://www.academy.attackiq.com/learning-path/summer-school-2023)
 ##### **2023** (Expected)
@@ -360,6 +373,7 @@ nav_order: 4
 1. ##### [Foundations of Operationalizing MITRE ATT&CK](https://www.academy.attackiq.com/lessons/)
    ##### **2023**, February
    > ###### _"This training session introduces students to the basics of the MITRE ATT&CK Framework. Topics include: the history and evolution of MITRE ATT&CK, why organizations are adopting it, and how an organization can use MITRE ATT&CK to make its security program more efficient and effective. The class will also cover the tools and resources available for supplementing MITRE ATT&CK testing, including ATT&CK Navigator and MITRE CAR."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#attackiq1))
 
 2. ##### [Foundations of Purple Teaming](https://www.academy.attackiq.com/lessons/)
@@ -384,6 +398,7 @@ nav_order: 4
 1. ##### [Ransomware Uncovered](https://community.icttf.org/course/ransomware-uncovered-specialist-certificate) (**Specialist**)
    ##### **2023**, February
    > ###### _"Business level training in relation to understanding the cyber risks related to Ransomware. Learn how about the underground economy of cyber criminals operate, the mechanics of ransomware, how to defend your business and respond to an attack."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#icttf1))
 
 </div>
@@ -519,6 +534,7 @@ nav_order: 4
 1. ##### [Introduction to Critical Infrastructure Protection](https://learn.opswatacademy.com/certifications/f904148a-9764-11ed-98f7-02dd896aace5) (**ICIP**)
    ##### **2023**, February
    > ###### _"Learn about the fundamentals of Critical Infrastructure Protection and how to navigate the OPSWAT Academy."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#opswat1))
 
 </div>
@@ -528,9 +544,11 @@ nav_order: 4
 ---
 ### [Cybrary](https://www.cybrary.it/)
 > ###### _"Cybrary is a growing community where people, companies and training come together to give everyone the ability to collaborate in an open source way that is revolutionizing the cyber security educational experience."_
+
 ##### **Learning Path**: [IT Foundations](https://www.cybrary.it/career-path/it-foundations)
 ##### **2023**, May
 > ###### _"Learn the foundational IT concepts essential to all cybersecurity roles, and stop wasting time trying to figure out where to get started. Too many beginners get discouraged navigating unreliable, outdated, and irrelevant information, making it feel impossible to know how to move forward. That’s why we’ve curated this IT foundations course, featuring thoughtful, bite-sized content from expert instructors who have helped thousands of other beginners grasp essential IT topics. Get ready to take your first steps into cybersecurity by diving into core IT concepts needed for any cybersecurity role."_
+
 ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary1))
 
 <details>
@@ -542,16 +560,19 @@ nav_order: 4
 1. ##### [Careers in Cybersecurity](https://www.cybrary.it/course/careers-in-cybersecurity)
    ##### **2023**, May
    > ###### _"Getting started in cybersecurity can be tough, and the number of careers seems endless. This course will get you hands-on with six of the most common cybersecurity roles, including penetration tester, digital forensics, cloud security, governance, security analyst, and security engineer. Decide which career is right for you today!"_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary2))
 
 2. ##### [Network Fundamentals](https://www.cybrary.it/course/network-fundamentals)
    ##### **2023**, May
    > ###### _"This course will go over fundamental concepts of installing and configuring various network devices and the skills needed to recognize and understand network topologies and give the student the knowledge to provide feedback on network requirements."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary3))
 
 3. ##### [Linux Fundamentals for Security Practitioners](https://www.cybrary.it/course/linux-fundamentals-for-security-practitioners)
    ##### **2023**, May
    > ###### _"Are you a current or aspiring IT security practitioner who needs a basic introduction to Linux? Take this course to master the Linux operating system and the tools it provides for securing your network environment."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary4))
 
 </div>
@@ -561,6 +582,7 @@ nav_order: 4
 ##### **Learning Path**: [Cybersecurity Foundations](https://www.cybrary.it/career-path/cybersecurity-foundations)
 ##### **2023**, May
 > ###### _"Get everything you need to start your cybersecurity career journey, and stop wasting your time (and money) sorting through unreliable information from questionable sources. While the industry offers very lucrative career opportunities, finding accurate, relevant information to break into the field can be incredibly frustrating. That’s why we’ve crafted this foundational course, with curated content from expert instructors covering core concepts found across all cybersecurity roles. Build practical skills and gain confidence as you begin your cybersecurity journey."_
+
 ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary5))
 
 <details>
@@ -572,36 +594,43 @@ nav_order: 4
 1. ##### [Careers in Cybersecurity](https://www.cybrary.it/course/careers-in-cybersecurity)
    ##### **2023**, May
    > ###### _"Getting started in cybersecurity can be tough, and the number of careers seems endless. This course will get you hands-on with six of the most common cybersecurity roles, including penetration tester, digital forensics, cloud security, governance, security analyst, and security engineer. Decide which career is right for you today!"_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary2))
 
 2. ##### [Entry-Level Cybersecurity Training](https://www.cybrary.it/course/entry-level-cybersecurity-training)
    ##### **2023**, May
    > ###### _"Are you new to cybersecurity and looking for a stepping stone into this exciting career field? Cybersecurity skills are in high demand, and the field is projected to grow 33% by 2030. This Entry-Level Cybersecurity Training course will give you the foundational knowledge you need to get started."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary7))
 
 3. ##### [Fundamentals of Cybersecurity Architecture](https://www.cybrary.it/course/fundamentals-of-cybersecurity-architecture)
    ##### **2023**, May
    > ###### _"This cyber security architecture class aims to give an appreciation of the various aspects of consideration that goes into a proper security architecture."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary8))
 
 4. ##### [Fundamental Windows Security Overview](https://www.cybrary.it/course/fundamental-windows-security-overview)
    ##### **2023**, May
    > ###### _"If you are a systems administrator who wants to learn how to better protect your organization’s Windows environment, this course is for you. Take this Fundamental Windows Security Overview course, and you’ll learn how to use the right tools and configurations to stop intrusions and ensure secure network connections."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary9))
 
 5. ##### [MITRE ATT&CK Defender™ (MAD) ATT&CK® Fundamentals](https://www.cybrary.it/course/mitre-attack-defender-mad-attack-fundamentals)
    ##### **2023**, May
    > ###### _"MITRE ATT&CK® Defender™ (MAD) is a cybersecurity training and certification program produced by MITRE's own subject matter experts. Explore how a threat-informed mindset can help you focus your efforts on improving and understanding how your defenses fare against real-world adversaries in this MAD ATT&CK® Fundamentals Badge Training course."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary10))
 
 6. ##### [PowerShell for Security Professionals](https://www.cybrary.it/course/powershell-for-security-professionals)
    ##### **2023**, May
    > ###### _"Unlock the power! Learn to apply PowerShell from both the red and blue team perspectives. In this PowerShell for Security Professionals course, you will learn the fundamentals of PowerShell and how it can be used to improve the automation of tasks across large organizational networks."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary11))
 
 7. ##### [Python for Cybersecurity Professionals](https://www.cybrary.it/course/python-for-cybersecurity-professionals)
    ##### **2023**, May
    > ###### _"Computing devices can be used for and against us. The way to get more done in less time is through the language of computers, which is programming. Python provides a powerful, beginner-friendly platform for programming, and this course will teach you to develop basic python scripts that can be used in the context of cybersecurity."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#cybrary12))
 
 </div>
@@ -622,6 +651,7 @@ nav_order: 4
 1. ##### [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://codered.eccouncil.org/course/introduction-to-dark-web-anonymity-and-cryptocurrency?logged=false)
    ##### **2023**, May
    > ###### _"Access dark web safely; Access information with being anonymous to everyone; Effectively use Tor Browser and Proxychain."_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#codered1))
 
 </div>
@@ -698,6 +728,7 @@ nav_order: 4
 1. ##### [Mastering Algebra I and Algebra II]()
    ##### **2023**, May
    > ###### _""_
+
    ###### ([Certificate](https://noaharonov.github.io/cert-list/#udemy1))
 
 </div>
@@ -709,14 +740,19 @@ nav_order: 4
 
 ### [TryHackMe](https://tryhackme.com/)
 > ###### _""_
+
 ##### **Learning Path**: [Pre-Security]()
 ##### **2023**, May
 > ###### _""_
+
 ###### ([Certificate](https://noaharonov.github.io/cert-list/#thm1))
+
 ##### **Learning Path**: [Introduction to Cyber Security]()
 ##### **2023**, May
 > ###### _""_
+
 ###### ([Certificate](https://noaharonov.github.io/cert-list/#thm2))
+
 ##### **Learning Path**: [PenTest+]()
 ##### **2023** (Expected)
 > ###### _""_
