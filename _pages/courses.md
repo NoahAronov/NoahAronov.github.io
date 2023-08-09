@@ -171,6 +171,7 @@ nav_order: 4
 ---
 ### [LinkedIn Learning](https://learning.linkedin.com/)
 > ###### _"L&D professionals at 78 of the Fortune 100 companies choose LinkedIn Learning because it provides a customized learning experience and teaches in-demand skills employees can use right away."_
+
 ##### **Learning Path**: [Understanding Quantum Computing](https://www.linkedin.com/learning/paths/understanding-quantum-computing)
 ##### **2023**, March
 > ###### _"Want the fundamentals of quantum computing? In these courses, learn how quantum computing is computing disrupting classical computing, and potential benefits and risks. Learn about cloud-based quantum computing: How quantum services benefit your applications, which cloud vendors offer cloud-based quantum services, and the cost implications."_
@@ -260,6 +261,7 @@ nav_order: 4
 ##### **Learning Path**: [AWS Cloud Quest: Cloud Practioner](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 ##### **2023**, March
 > ###### _"AWS Cloud Quest is the only role-playing game to help you build practical AWS Cloud skills. Choose your role—Cloud Practitioner, Serverless Developer, Solutions Architect, Machine Learning Specialist, Security Specialist, or Data Analytics Specialist—then learn and apply cloud skills to help the citizens of your virtual city. Once you finish all the assignments in your role, showcase your achievement with a digital badge. Whether you’re starting your cloud learning journey or diving into specialized skills, AWS Cloud Quest helps you learn in an interactive, engaging way."_
+
 ###### ([Badge](https://www.credly.com/badges/d4c27268-3612-4a70-8069-7fa5e891bd69))
 
 ---
@@ -511,12 +513,13 @@ nav_order: 4
 <details>
 
 <summary>Skills (400+)</summary>
- <div markdown='1'>
 
-  ###### Energy: 900,000+
-  ###### [Badges](https://www.khanacademy.org/profile/noah.aero/badges): 41
+<div markdown='1'>
+
+###### Energy: 900,000+
+###### [Badges](https://www.khanacademy.org/profile/noah.aero/badges): 41
   
- </div>
+</div>
 
 </details>
 

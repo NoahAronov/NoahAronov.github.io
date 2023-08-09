@@ -133,7 +133,7 @@ nav: false
 
 ---
 ### udemy1
-{% include figure.html path="assets/img/udemy1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/udemy1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### lf1

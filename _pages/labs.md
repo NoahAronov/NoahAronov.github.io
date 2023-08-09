@@ -10,9 +10,11 @@ nav: false
 ---
 
 ### [Western Governors University](https://www.wgu.edu/)
+> ###### ([Degrees / Diplomas](https://noaharonov.github.io/education/#western-governors-university))
+
 <details>
 
-<summary>Labs: (50)</summary>
+<summary>Labs: (75)</summary>
 
 <div markdown="1">
 
@@ -166,12 +168,88 @@ nav: false
 50. > ##### _Assisted Lab: Implement a Bash Script._
     > ###### **CompTIA + Skillable**
 
+51. > ##### _Assisted Lab: Configure a SOHO Router._
+    > ###### **CompTIA + Skillable**
+
+52. > ##### _Assisted Lab: Capture Network Traffic ._
+    > ###### **CompTIA + Skillable**
+
+53. > ##### _Assisted Lab: Configure Interface Settings._
+    > ###### **CompTIA + Skillable**
+
+54. > ##### _Assisted Lab: Configure IPv4 Static Addressing._
+    > ###### **CompTIA + Skillable**
+
+55. > ##### _Assisted Lab: Analyze ARP Traffic._
+    > ###### **CompTIA + Skillable**
+
+56. > ##### _Assisted Lab: Use Tools to Test the IP Configuration._
+    > ###### **CompTIA + Skillable**
+
+57. > ##### _Assisted Lab: Configure IPv6 Static Addressing._
+    > ###### **CompTIA + Skillable**
+
+58. > ##### _Assisted Lab: Configure Static Routing._
+    > ###### **CompTIA + Skillable**
+
+59. > ##### _Assisted Lab: Configure Dynamic Routing._
+    > ###### **CompTIA + Skillable**
+
+60. > ##### _Applied Lab: Troubleshoot IP Networks (1/2)._
+    > ###### **CompTIA + Skillable**
+
+61. > ##### _Applied Lab: Troubleshoot IP Networks (2/2)._
+    > ###### **CompTIA + Skillable**
+
+62. > ##### _Assisted Lab: Use Network Scanners._
+    > ###### **CompTIA + Skillable**
+
+63. > ##### _Assisted Lab: Analyze a DHCP Server Configuration._
+    > ###### **CompTIA + Skillable**
+
+64. > ##### _Assisted Lab: Analyze a DNS Server Configuration._
+    > ###### **CompTIA + Skillable**
+
+65. > ##### _Assisted Lab: Analyze Application Security Configurations._
+    > ###### **CompTIA + Skillable**
+
+66. > ##### _Assisted Lab: Configure Secure Access Channels._
+    > ###### **CompTIA + Skillable**
+
+67. > ##### _Assisted Lab: Configure Syslog._
+    > ###### **CompTIA + Skillable**
+
+68. > ##### _Assisted Lab: Analyze Network Performance._
+    > ###### **CompTIA + Skillable**
+
+69. > ##### _APPLIED Lab: Verify Service and Application Configuration._
+    > ###### **CompTIA + Skillable**
+
+70. > ##### _Assisted Lab: Configure Remote Access._
+    > ###### **CompTIA + Skillable**
+
+71. > ##### _Assisted Lab: Develop Network Documentation._
+    > ###### **CompTIA + Skillable**
+
+72. > ##### _Assisted Lab: Backup and Restore Network Device Configuration._
+    > ###### **CompTIA + Skillable**
+
+73. > ##### _Assisted Lab: Analyze an On-path Attack._
+    > ###### **CompTIA + Skillable**
+
+74. > ##### _Assisted Lab: Configure Port Security._
+    > ###### **CompTIA + Skillable**
+
+75. > ##### _Applied Lab: Troubleshoot Service and Security Issues._
+    > ###### **CompTIA + Skillable**
+
 </div>
 </details>
 
 ---
 
 ### [Cisco Networking Academy](https://www.netacad.com/)
+> ###### ([Degrees / Diplomas](https://noaharonov.github.io/education/#cisco-networking-academy))
 
 <details>
 
