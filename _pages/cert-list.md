@@ -162,3 +162,11 @@ nav: false
 {% include figure.html path="assets/img/comptia5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
+### qualys1
+{% include figure.html path="assets/img/qualys1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### qualys2
+{% include figure.html path="assets/img/qualys2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### qualys3
+{% include figure.html path="assets/img/qualys3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
