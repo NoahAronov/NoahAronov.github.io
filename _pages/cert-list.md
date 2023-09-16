@@ -136,6 +136,22 @@ nav: false
 {% include figure.html path="assets/img/linkedin2.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ### linkedin3
 {% include figure.html path="assets/img/linkedin3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin4
+{% include figure.html path="assets/img/linkedin4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin5
+{% include figure.html path="assets/img/linkedin5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin6
+{% include figure.html path="assets/img/linkedin6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin7
+{% include figure.html path="assets/img/linkedin7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin8
+{% include figure.html path="assets/img/linkedin8.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin9
+{% include figure.html path="assets/img/linkedin9.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin10
+{% include figure.html path="assets/img/linkedin10.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin11
+{% include figure.html path="assets/img/linkedin11.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### opswat1

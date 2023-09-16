@@ -14,8 +14,8 @@ nav_order: 4
 2. [United Nations Office on Drugs and Crime](#united-nations-office-on-drugs-and-crime) - Courses: (1)
 3. [United Nations Office for Disarmament Affairs](#united-nations-office-for-disarmament-affairs) - Courses: (1)
 4. [United Nations Office for Outer Space Affairs](#united-nations-office-for-outer-space-affairs) - Courses: (1)
-5. [TCM Academy](#tcm-academy) - Courses: (3)
-6. [LinkedIn Learning](#linkedin-learning) - Courses: (2)
+<!-- 5. [TCM Academy](#tcm-academy) - Courses: (3) -->
+6. [LinkedIn Learning](#linkedin-learning) - Courses: (10)
 7. [AWS Educate](#aws-educate) - Courses: (1)
 8. [AWS Training and Certification](#aws-training-and-certification) - Courses: (4)
 9. [The Linux Foundation](#the-linux-foundation) - Courses: (1)
@@ -32,11 +32,12 @@ nav_order: 4
 20. [codered](#codered) - Courses: (1)
 21. [Maltego](#maltego) - Courses: (1)
 22. [Alison](#alison) - Courses: (1)
-23. [Management and Strategy Institute](#management-and-strategy-institute) - Courses: (1)
+23. [Management and Strategy Institute](#management-and-strategy-institute) - Courses: (4)
 24. [Kaggle](#kaggle) - Courses: (1)
 25. [Udemy](#udemy) - Courses: (1)
-26. [TryHackMe](#tryhackme) - Learning Paths: (3)
-<!--26. [CompTIA Certmaster](#comptia-certmaster) - Courses: (4)-->
+26. [TryHackMe](#tryhackme) - Learning Paths: (5)
+27. [DataCamp](#datacamp) - Courses: (4)
+
 
 
 ---
@@ -739,7 +740,6 @@ nav_order: 4
 </details>
 
 ---
-<!--### [Certmaster]() (**CompTIA**)-->
 
 ### [TryHackMe](https://tryhackme.com/)
 > ###### _""_
