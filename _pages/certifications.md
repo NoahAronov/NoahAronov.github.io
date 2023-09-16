@@ -17,17 +17,17 @@ nav_order: 5
 <div markdown="1">
 
 1. ##### **CompTIA** [A+](https://www.comptia.org/certifications/a)
-   ##### **2023** (Expected)
+   ##### **2023**
    > ###### _"The CompTIA A+ Core Series requires candidates to pass two exams: Core 1 (220-1101) and Core 2 (220-1102) covering the following new content, emphasizing the technologies and skills IT pros need to support a hybrid workforce:_
     > - ###### _Increased reliance on SaaS applications for remote work_
     > - ###### _How to remotely diagnose and correct common software, hardware or connectivity problems_
     > - ###### _Evolving core technologies from cloud virtualization and IoT device security to data management and scripting_
     > - ###### _Multiple operating systems, when to use them and how to keep them running properly_
     > - ###### _Reflects the changing nature of the job, including how to assess if it’s best to fix something on site, or send it to a specialized provider."_
-   ###### ([Certificate](https://www.comptia.org/certifications/a))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#comptia1))
 
 2. ##### **CompTIA** [Network+](https://www.comptia.org/certifications/network)
-   ##### **2023** (Expected)
+   ##### **2023**
    > ###### _"The CompTIA Network+ certification verifies that the successful candidate has the knowledge and skills required to:_
     > - ###### _Establish network connectivity by deploying wired and wireless devices_
     > - ###### _Understand and maintain network documentation_
@@ -35,16 +35,16 @@ nav_order: 5
     > - ###### _Monitor network activity, identifying performance and availability issues_
     > - ###### _Implement network hardening techniques_
     > - ###### _Manage, configure and troubleshoot network infrastructure."_
-   ###### ([Certificate](https://www.comptia.org/certifications/network))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#comptia2))
 
 3. ##### **CompTIA** [Security+](https://www.comptia.org/certifications/security)
-   ##### **2023** (Expected)
+   ##### **2023**
    > ###### _"CompTIA Security+ is the first cybersecurity certification a candidate should earn. It establishes the core knowledge required in the field and provides a springboard to intermediate-level cybersecurity jobs. Security+ incorporates best practices in hands-on troubleshooting, ensuring you have the practical security problem-solving skills required to:_
     > - ###### _Assess the security of an organization and recommend and implement appropriate solutions_
     > - ###### _Monitor and secure hybrid environments, including cloud, mobile and IoT_
     > - ###### _Operate with an awareness of applicable laws and policies, including principles of governance, risk and compliance_
     > - ###### _Identify, analyze and respond to security events and incidents."_ 
-   ###### ([Certificate](https://www.comptia.org/certifications/security))
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#comptia5))
 
 4. ##### **CompTIA** [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
    ##### **2023** (Expected)
@@ -63,13 +63,13 @@ nav_order: 5
 
 7. ##### **CompTIA** [IT Operations Specialist](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CIOS**)
    ##### (**Stackable**: CompTIA A+ & CompTIA Network+)
-   ##### **2023** (Expected)
-   ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
+   ##### **2023**
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#comptia3))
 
 8. ##### **CompTIA** [Secure Infrastructure Specialist](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CSIS**)
    ##### (**Stackable**: CompTIA A+, CompTIA Network+, and CompTIA Security+)
-   ##### **2023** (Expected)
-   ###### ([Certificate](https://www.comptia.org/certifications/which-certification/stackable-certifications))
+   ##### **2023**
+   ###### ([Certificate](https://noaharonov.github.io/cert-list/#comptia4))
 
 9. ##### **CompTIA** [Security Analytics Professional](https://www.comptia.org/certifications/which-certification/stackable-certifications) (**CSAP**)
    ##### (**Stackable**: CompTIA Security+ & CompTIA CySA+)

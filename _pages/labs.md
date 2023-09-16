@@ -243,6 +243,102 @@ nav: false
 75. > ##### _Applied Lab: Troubleshoot Service and Security Issues._
     > ###### **CompTIA + Skillable**
 
+76. > ##### _Assisted Lab: Exploring the Lab Environment._
+    > ###### **CompTIA + Skillable**
+
+77. > ##### _Assisted Lab: Scanning and Identifying Network Nodes._
+    > ###### **CompTIA + Skillable**
+
+78. > ##### _Assisted Lab: Intercepting and Interpreting Network Traffic with Packet Sniffing Tools._
+    > ###### **CompTIA + Skillable**
+
+79. > ##### _Assisted Lab: Analyzing the Results of a Credentialed Vulnerability Scan._
+    > ###### **CompTIA + Skillable**
+
+80. > ##### _Assisted Lab: Installing, Using, and Blocking a Malware-based Backdoor._
+    > ###### **CompTIA + Skillable**
+
+81. > ##### _Applied Lab: Performing Network Reconnaissance and Vulnerability Scanning._
+    > ###### **CompTIA + Skillable**
+
+82. > ##### _Assisted Lab: Managing the Life Cycle of a Certificate._
+    > ###### **CompTIA + Skillable**
+
+83. > ##### _Assisted Lab: Managing Certificates with OpenSSL._
+    > ###### **CompTIA + Skillable**
+
+84. > ##### _Assisted Lab: Auditing Passwords with a Password Cracking Utility._
+    > ###### **CompTIA + Skillable**
+
+85. > ##### _Assisted Lab: Managing Centralized Authentication._
+    > ###### **CompTIA + Skillable**
+
+86. > ##### _Assisted Lab: Managing Access Controls in Windows Server._
+    > ###### **CompTIA + Skillable**
+
+87. > ##### _Assisted Lab: Configuring a System for Auditing Policies._
+    > ###### **CompTIA + Skillable**
+
+88. > ##### _Assisted Lab: Managing Access Controls in Linux._
+    > ###### **CompTIA + Skillable**
+
+89. > ##### _Applied Lab: Configuring Identity and Access Management Controls._
+    > ###### **CompTIA + Skillable**
+
+90. > ##### _Assisted Lab: Implementing a Secure Network Design._
+    > ###### **CompTIA + Skillable**
+
+91. > ##### _Assisted Lab: Configuring a Firewall._
+    > ###### **CompTIA + Skillable**
+
+92. > ##### _Assisted Lab: Configuring an Intrusion Detection System._
+    > ###### **CompTIA + Skillable**
+
+93. > ##### _Assisted Lab: Implementing Secure Network Addressing Services._
+    > ###### **CompTIA + Skillable**
+
+94. > ##### _Assisted Lab: Implementing a Virtual Private Network._
+    > ###### **CompTIA + Skillable**
+
+95. > ##### _Assisted Lab: Implementing a Secure SSH Server._
+    > ###### **CompTIA + Skillable**
+
+96. > ##### _Assisted Lab: Implementing Endpoint Protection._
+    > ###### **CompTIA + Skillable**
+
+97. > ##### _Applied Lab: Securing the Network Infrastructure._
+    > ###### **CompTIA + Skillable**
+
+98. > ##### _Assisted Lab: Identifying Application Attack Indicators._
+    > ###### **CompTIA + Skillable**
+
+99. > ##### _Assisted Lab: Identifying a Browser Attack._
+    > ###### **CompTIA + Skillable**
+
+100. > ##### _Assisted Lab: Implementing PowerShell Security._
+    > ###### **CompTIA + Skillable**
+
+101. > ##### _Assisted Lab: Identifying Malicious Code._
+    > ###### **CompTIA + Skillable**
+
+102. > ##### _Applied Lab: Identifying Application Attacks._
+    > ###### **CompTIA + Skillable**
+
+103. > ##### _Assisted Lab: Managing Data Sources for Incident Response._
+    > ###### **CompTIA + Skillable**
+
+104. > ##### _Assisted Lab: Configuring Mitigation Controls._
+    > ###### **CompTIA + Skillable**
+
+105. > ##### _Assisted Lab: Acquiring Digital Forensics Evidence._
+    > ###### **CompTIA + Skillable**
+
+106. > ##### _Assisted Lab: Backing Up and Restoring Data in Windows and Linux._
+    > ###### **CompTIA + Skillable**
+
+107. > ##### _Applied Lab: Managing Incident Response, Mitigation and Recovery._
+    > ###### **CompTIA + Skillable**
+
 </div>
 </details>
 

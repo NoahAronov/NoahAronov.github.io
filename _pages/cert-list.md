@@ -130,6 +130,12 @@ nav: false
 {% include figure.html path="assets/img/thm1.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ### thm2
 {% include figure.html path="assets/img/thm2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### thm3
+{% include figure.html path="assets/img/thm3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### thm4
+{% include figure.html path="assets/img/thm4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### thm5
+{% include figure.html path="assets/img/thm5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### udemy1
@@ -142,5 +148,17 @@ nav: false
 ---
 ### codered1
 {% include figure.html path="assets/img/codered1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### comptia1
+{% include figure.html path="assets/img/comptia1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### comptia2
+{% include figure.html path="assets/img/comptia2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### comptia3
+{% include figure.html path="assets/img/comptia3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### comptia4
+{% include figure.html path="assets/img/comptia4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### comptia5
+{% include figure.html path="assets/img/comptia5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
