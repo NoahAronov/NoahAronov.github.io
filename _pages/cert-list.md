@@ -8,16 +8,6 @@ nav: false
 ---
 
 ---
-###### msi1
-{% include figure.html path="assets/img/msi4.png" title="example image" class="img-fluid rounded z-depth-1" %}
-###### msi2
-{% include figure.html path="assets/img/msi2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-###### msi3
-{% include figure.html path="assets/img/msi3.png" title="example image" class="img-fluid rounded z-depth-1" %}
-###### msi4
-{% include figure.html path="assets/img/msi1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
----
 ##### fed1
 {% include figure.html path="assets/img/fed1.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ##### fed2
@@ -36,6 +26,22 @@ nav: false
 {% include figure.html path="assets/img/un2.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ##### un3
 {% include figure.html path="assets/img/un3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### dli2
+{% include figure.html path="assets/img/dli2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### chds1
+{% include figure.html path="assets/img/chds1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### chds2
+{% include figure.html path="assets/img/chds2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### chds3
+{% include figure.html path="assets/img/chds3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### chds4
+{% include figure.html path="assets/img/chds4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### chds5
+{% include figure.html path="assets/img/chds5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### cisco1
@@ -94,6 +100,16 @@ nav: false
 {% include figure.html path="assets/img/fort3.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ### fort4
 {% include figure.html path="assets/img/fort4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+###### msi1
+{% include figure.html path="assets/img/msi4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+###### msi2
+{% include figure.html path="assets/img/msi2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+###### msi3
+{% include figure.html path="assets/img/msi3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+###### msi4
+{% include figure.html path="assets/img/msi1.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### aws1
@@ -172,3 +188,29 @@ nav: false
 ---
 ### itil
 {% include figure.html path="assets/img/itil.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### vep1
+{% include figure.html path="assets/img/vep1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### vep2
+{% include figure.html path="assets/img/vep2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### kaggle1
+{% include figure.html path="assets/img/kaggle1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### datacamp1
+{% include figure.html path="assets/img/datacamp1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### datacamp2
+{% include figure.html path="assets/img/datacamp2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### datacamp3
+{% include figure.html path="assets/img/datacamp3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### datacamp4
+{% include figure.html path="assets/img/datacamp4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### maltego1
+{% include figure.html path="assets/img/maltego1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
