@@ -54,6 +54,8 @@ nav: false
 {% include figure.html path="assets/img/cisco4.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ### cisco5
 {% include figure.html path="assets/img/cisco5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cisco6
+{% include figure.html path="assets/img/cisco6.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### sturt1
@@ -152,6 +154,8 @@ nav: false
 {% include figure.html path="assets/img/linkedin10.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ### linkedin11
 {% include figure.html path="assets/img/linkedin11.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### linkedin12
+{% include figure.html path="assets/img/linkedin12.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### opswat1
@@ -180,6 +184,12 @@ nav: false
 ---
 ### codered1
 {% include figure.html path="assets/img/codered1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### eccouncil1
+{% include figure.html path="assets/img/eccouncil1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### eccouncil2
+{% include figure.html path="assets/img/eccouncil2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### eccouncil3
+{% include figure.html path="assets/img/eccouncil3.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### comptia1
@@ -224,9 +234,55 @@ nav: false
 {% include figure.html path="assets/img/datacamp3.png" title="example image" class="img-fluid rounded z-depth-1" %}
 ### datacamp4
 {% include figure.html path="assets/img/datacamp4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### datacamp5
+{% include figure.html path="assets/img/datacamp5.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### maltego1
 {% include figure.html path="assets/img/maltego1.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
+### mslearn1
+{% include figure.html path="assets/img/mslearn1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### mslearn2
+{% include figure.html path="assets/img/mslearn2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### mslearn3
+{% include figure.html path="assets/img/mslearn3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### cyber5w1
+{% include figure.html path="assets/img/cyber5w1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### cyber5w2
+{% include figure.html path="assets/img/cyber5w2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### arcx1
+{% include figure.html path="assets/img/arcx1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+
+### infosec1
+{% include figure.html path="assets/img/infosec1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+
+### bhis1
+{% include figure.html path="assets/img/bhis1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### bhis2
+{% include figure.html path="assets/img/bhis2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### bhis3
+{% include figure.html path="assets/img/bhis3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### bhis4
+{% include figure.html path="assets/img/bhis4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### bhis5
+{% include figure.html path="assets/img/bhis5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### bhis6
+{% include figure.html path="assets/img/bhis6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### secblueteam1
+{% include figure.html path="assets/img/secblueteam1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### sans1
+{% include figure.html path="assets/img/sans1.png" title="example image" class="img-fluid rounded z-depth-1" %}
