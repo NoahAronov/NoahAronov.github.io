@@ -180,6 +180,8 @@ nav: false
 ---
 ### lf1
 {% include figure.html path="assets/img/lf1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### lf2
+{% include figure.html path="assets/img/lf2.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ---
 ### codered1
@@ -286,3 +288,17 @@ nav: false
 ---
 ### sans1
 {% include figure.html path="assets/img/sans1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### paloalto1
+{% include figure.html path="assets/img/paloalto1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### paloalto2
+{% include figure.html path="assets/img/paloalto2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+### paloalto3
+{% include figure.html path="assets/img/paloalto3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+### sololearn1
+{% include figure.html path="assets/img/sololearn1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
