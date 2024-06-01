@@ -1,11 +1,11 @@
 ## Example Config file
 BaseURL: "https://terminal.noahsec.pro"
 theme: "terminalcv"
-title: "terminalCV"
+title: "NoahSec"
 
 params:
   description: "My terminal cv"
-  prompt: "newuser@terminalcv"
+  prompt: "newuser@noahsec"
 # promptColor: grey
 # promptSimbols: ":~$"
 # promptSimbolsColor: grey
@@ -14,37 +14,37 @@ params:
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    Welcome to my online resume
+    Welcome to Noah's interactive terminal resume
 
 
     Type 'help' for a list of available commands
 
 
   whois: 
-      name: "John Doe"
-      profession: "Unknown"
-      location: "Somewhere"
-      email: "foo@someemail.com"
-      homelink: "https://myHomePage.com"
-      description: |
-              Here you can write something catchy about yourself
+      name: "Noah Aronov"
+      profession: "Security Engineer"
+      location: "Nevada, USA"
+      email: "noah@noahsec.pro"
+      homelink: "https://noahsec.pro"
+      #description: |
+              #Here you can write something catchy about yourself
 
   social:
     ## IF you want to keep them aligned just add spaces
     - name: "github"
       url: "          https://github.com"
-    - name: "facebook"
-      url: "        https://facebook.com"
-    - name: "myspace"
-      url: "         https://myspace.com"
-    - name: "hi5"
-      url: "             https://www.hi5.com"
-    - name: "instagram"
-      url: "       https://instagram.com"
-    - name: "Another social"
-      url: "  https://anothersocial.com"
+    - name: "linkedin"
+      url: "        https://linkedin.com"
+    - name: "medium"
+      url: "          https://medium.com"
+    - name: "youtube"
+      url: "         https://youtube.com"
+    #- name: "instagram"
+    #  url: "       https://instagram.com"
+    #- name: "Another social"
+    #  url: "  https://anothersocial.com"
 
-  workexp:
+  work:
     - jobTitle: Job With Red Title
       color: red
       company: '-' 
