@@ -4,7 +4,7 @@ theme: "terminalcv"
 title: "NoahSec"
 
 params:
-  description: "My terminal cv"
+  description: "Noah's terminal resume"
   prompt: "newuser@noahsec"
 # promptColor: grey
 # promptSimbols: ":~$"
