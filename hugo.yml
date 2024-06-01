@@ -1,6 +1,6 @@
 ## Example Config file
 BaseURL: "https://noaharonov.github.io/"
-#theme: "terminalCV"
+theme: "terminalCV"
 title: "terminalCV"
 
 params:
