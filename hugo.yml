@@ -6,9 +6,9 @@ title: "NoahSec"
 params:
   description: "Noah's terminal resume"
   prompt: "newuser@noahsec"
-# promptColor: grey
-# promptSimbols: ":~$"
-# promptSimbolsColor: grey
+  promptColor: red
+  promptSimbols: ":~$"
+  promptSimbolsColor: red
 # startxLocation: https://example.com
 # hideSocialName: true
 # exitLocation: 'about:blank'
@@ -64,53 +64,7 @@ params:
       location: anywhere
       date: July 2008 - 2010
       description: Description about this default color job
-
-  education:
-   - courseName: Red Color training
-     color: red
-     date: June 2019 - July 2019
-     description: Descrption about red color trianing
-
-   - courseName: Default color training
-     date: Sept 2004 - Jun 2008
-     #description: There is no need for description
-
-  skills:
-    - name: Skill 1
-      percentage: 90
-      Description: you can add a description
-
-    - name: Skill 2
-      percentage: 30
-      #description: or you can leave it comented   
-
-    - name: Skill 3
-      color: blue
-      percentage: 50
-      description: Skill names can have colors too
-
-  softskills:
-    - name: SoftSkill 1
-      color: red
-      percentage: 80
-      #description:
-
-    - name:  SoftSkill 2
-      #color: 
-      percentage: 90
-      description: Description
-
-  languages:
-    - name: English
-      color: Blue
-      percentage: 50
-      #description: 
-
-    - name: Gibberish
-      percentage: 100
-      description: pasghettipigglywiggly
-
-
+  
   projects:
     - title: Project Red
       color: red
@@ -134,6 +88,59 @@ params:
     company: Example Certifying Company
     date: Date of Completion
     #description: Lorem Ipsum
+
+  education:
+   - courseName: Red Color training
+     color: red
+     date: June 2019 - July 2019
+     description: Descrption about red color trianing
+
+   - courseName: Default color training
+     date: Sept 2004 - Jun 2008
+     #description: There is no need for description
+
+ #skills:
+  #  - name: Skill 1
+  ##    percentage: 90
+  #    Description: you can add a description
+
+   # - name: Skill 2
+   #   percentage: 30
+      #description: or you can leave it comented   
+
+  #  - name: Skill 3
+  #    color: blue
+  #    percentage: 50
+   #   description: Skill names can have colors too
+
+  #softskills:
+  #  - name: SoftSkill 1
+  ##    color: red
+  #    percentage: 80
+      #description:
+
+  #  - name:  SoftSkill 2
+      #color: 
+  #    percentage: 90
+  #    description: Description
+
+  languages:
+    - name: English
+      #color: teal
+      #percentage: 100
+      description: Advanced
+
+    - name: German
+      #percentage: 50
+      description: Intermediate
+
+    - name: Japanese
+      #percentage: 25
+      description: Basic
+
+    - name: Russian
+      #percentage: 25
+      description: Basic
   
   misc: 
     #commandName: newcommand
@@ -155,3 +162,4 @@ params:
           Auto completion will know it too! :D 
 
     contentColor: orange
+  
