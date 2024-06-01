@@ -1,0 +1,3 @@
+[submodule "themes/terminalcv"]
+	path = themes/terminalcv
+	url = https://github.com/coolapso/hugo-theme-terminalcv.git
