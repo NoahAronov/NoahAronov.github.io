@@ -1,18 +1,18 @@
 ## Example Config file
 BaseURL: "https://terminal.noahsec.pro"
 theme: "terminalcv"
-title: "NoahSec"
+title: "Terminal Resume | Noah"
 
 params:
   description: "Noah's terminal resume"
-  prompt: "newuser@noahsec"
+  prompt: "me@noahsec"
   promptColor: red
   promptSimbols: ":~$"
   promptSimbolsColor: red
 # startxLocation: https://example.com
 # hideSocialName: true
 # exitLocation: 'about:blank'
-# hidesource: true
+  hidesource: true
   greeting: | 
     Welcome to Noah's interactive terminal resume
 
@@ -32,13 +32,13 @@ params:
   social:
     ## IF you want to keep them aligned just add spaces
     - name: "github"
-      url: "          https://github.com"
+      url: "          https://github.com/NoahAronov"
     - name: "linkedin"
-      url: "        https://linkedin.com"
+      url: "        https://linkedin.com/in/noahsec"
     - name: "medium"
-      url: "          https://medium.com"
+      url: "          https://medium.com/@noahsec"
     - name: "youtube"
-      url: "         https://youtube.com"
+      url: "         https://youtube.com/@noahsec"
     #- name: "instagram"
     #  url: "       https://instagram.com"
     #- name: "Another social"
