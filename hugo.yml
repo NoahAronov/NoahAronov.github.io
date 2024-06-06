@@ -46,26 +46,28 @@ params:
 
   work:
     - jobTitle: Senior Administrator
-      #color: red
+      color: teal
       company: 'Hadron' 
       location: USA
       date: #August 2010 - Present
       description: Head of Gamemaster Team, Head of Training Team, Discord Community Administrator
 
     - jobTitle: Assistant Head Sushi Chef
-      #color: purple
+      color: teal
       company: 'Zanmai'
       location: USA
       date: #July 2000  - July 2010
       description: Head Sushi Chef Trainer
 
     - jobTitle: Senior Sushi Chef
+      color: teal
       company: 'Sushi Restaurant'
       location: USA
       date: #July 2008 - 2010
       description: Sushi Chef Trainer
 
     - jobTitle: Head Sushi Chef
+      color: teal
       company: 'Sushi Restaurant'
       location: USA
       date: #
@@ -73,18 +75,19 @@ params:
   
   projects:
     - title: Project 1
-      #color: red
+      color: blue
       date: since 2023
       link: https://noahsec.pro/
       #description: Describing red stuff
 
     - title: Project 2
-      #color: blue
+      color: blue
       date: since 2023
       link: https://noahsec.pro/
       #description: nothing to describe
 
     - title: Project 3
+      color: blue
       date: Since 2024
       link: https://noahsec.pro/
       #description: not there either
@@ -148,11 +151,12 @@ params:
 
   education:
    - courseName: Master of Science, Cybersecurity and Information Assurance
-     #color: red
+     color: purple
      date: 2024-2025
      description: Western Governors University
 
    - courseName: Bachelor of Science, Cybersecurity and Information Assurance
+     color: purple
      date: 2023-2024
      description: Western Governors University
 
