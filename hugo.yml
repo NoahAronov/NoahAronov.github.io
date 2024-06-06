@@ -184,16 +184,16 @@ params:
   languages:
     - name: English
       #color: teal
-      #percentage: 100
+      percentage: 100
       description: Advanced
     - name: German
-      #percentage: 50
+      percentage: 50
       description: Intermediate
     - name: Japanese
-      #percentage: 25
+      percentage: 25
       description: Basic
     - name: Russian
-      #percentage: 25
+      percentage: 25
       description: Basic
   
   misc: 
