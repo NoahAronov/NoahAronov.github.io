@@ -45,59 +45,116 @@ params:
     #  url: "  https://anothersocial.com"
 
   work:
-    - jobTitle: Job With Red Title
-      color: red
-      company: '-' 
-      location: somewhere
-      date: August 2010 - Present
-      description: Some description about this red title job
+    - jobTitle: Senior Administrator
+      #color: red
+      company: 'Hadron' 
+      location: USA
+      date: #August 2010 - Present
+      description: Head of Gamemaster Team, Head of Training Team, Discord Community Administrator
 
-    - jobTitle: Job with purple title
-      color: purple
-      company: '-'
-      location: somewhere elese
-      date: July 2000  - July 2010
-      description: Some description about this purple job
+    - jobTitle: Assistant Head Sushi Chef
+      #color: purple
+      company: 'Zanmai'
+      location: USA
+      date: #July 2000  - July 2010
+      description: Head Sushi Chef Trainer
 
-    - jobTitle: Job with default color title
-      company: '-'
-      location: anywhere
-      date: July 2008 - 2010
-      description: Description about this default color job
+    - jobTitle: Senior Sushi Chef
+      company: 'Sushi Restaurant'
+      location: USA
+      date: #July 2008 - 2010
+      description: Sushi Chef Trainer
+
+    - jobTitle: Head Sushi Chef
+      company: 'Sushi Restaurant'
+      location: USA
+      date: #
+      description: Sushi Chef Trainer
   
   projects:
-    - title: Project Red
-      color: red
-      date: since 2019
-      link: https://example.com
-      description: Describing red stuff
+    - title: Project 1
+      #color: red
+      date: since 2023
+      link: https://noahsec.pro/
+      #description: Describing red stuff
 
-    - title: Project Blue
-      color: blue
-      date: since 2016
-      link: https://example.com/blue
+    - title: Project 2
+      #color: blue
+      date: since 2023
+      link: https://noahsec.pro/
       #description: nothing to describe
 
-    - title: Project Default
-      date: Since 2017
-      link: https://example.com/default
+    - title: Project 3
+      date: Since 2024
+      link: https://noahsec.pro/
       #description: not there either
 
   certifications:
-  - certName: Example Cert
-    company: Example Certifying Company
-    date: Date of Completion
-    #description: Lorem Ipsum
+  - certName: MCRTA, Multi-Cloud Red Team Analyst
+    company: CyberWarFare Labs
+    date: 06/2024
+  - certName: PJOR, Practical Junior OSINT Researcher
+    company: TCM Security
+    date: 03/2024
+  - certName: PenTest+, CompTIA Penetration Tester+
+    company: CompTIA
+    date: Expected 06/2024
+  - certName: CySA+, CompTIA Cybersecurity Analyst+
+    company: CompTIA
+    date: 04/2024
+  - certName: CompTIA Security+
+    company: CompTIA
+    date: 08/2023
+  - certName: CompTIA Network+
+    company: ECompTIA
+    date: 08/2023
+  - certName: CompTIA A+
+    company: CompTIA
+    date: 08/2023
+  - certName: CompTIA Project+
+    company: CompTIA
+    date: 02/2024
+  - certName: CNSP, CompTIA Network Security Professional
+    company: CompTIA
+    date: Expected 06/2024
+  - certName: CNVP, CompTIA Network Vulnerability Assessment Professional
+    company: CompTIA
+    date: Expected 06/2024
+  - certName: CSAP, CompTIA Security Analytics Professional
+    company: CompTIA
+    date: 04/2024
+  - certName: CSIS, CompTIA Secure Infrastructure Specialist
+    company: CompTIA
+    date: 08/2023
+  - certName: CIOS, CompTIA IT Operations Specialist
+    company: CompTIA
+    date: 08/2023
+  - certName: CC, Certified in Cybersecurity
+    company: ISC2
+    date: 08/2023
+  - certName: Associate of ISC2
+    company: ISC2
+    date: 11/2023
+    description: Exam passed, awaiting endorsement; SSCP, Systems Security Certified Practitioner
+  - certName: Linux Essentials
+    company: LPI
+    date: 01/2024
+  - certName: ITILv4 Foundations
+    company: Axelos
+    date: 08/2023
+  - certName: AI Fundamentals
+    company: DataCamp
+    date: 12/2023
 
   education:
-   - courseName: Red Color training
-     color: red
-     date: June 2019 - July 2019
-     description: Descrption about red color trianing
+   - courseName: Master of Science, Cybersecurity and Information Assurance
+     #color: red
+     date: 2024-2025
+     description: Western Governors University
 
-   - courseName: Default color training
-     date: Sept 2004 - Jun 2008
-     #description: There is no need for description
+   - courseName: Bachelor of Science, Cybersecurity and Information Assurance
+     date: 2023-2024
+     description: Western Governors University
 
  #skills:
   #  - name: Skill 1
@@ -129,15 +186,12 @@ params:
       #color: teal
       #percentage: 100
       description: Advanced
-
     - name: German
       #percentage: 50
       description: Intermediate
-
     - name: Japanese
       #percentage: 25
       description: Basic
-
     - name: Russian
       #percentage: 25
       description: Basic
