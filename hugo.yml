@@ -109,7 +109,7 @@ params:
     company: CompTIA
     date: 08/2023
   - certName: CompTIA Network+
-    company: ECompTIA
+    company: CompTIA
     date: 08/2023
   - certName: CompTIA A+
     company: CompTIA
@@ -201,23 +201,12 @@ params:
       description: Basic
   
   misc: 
-    #commandName: newcommand
-    title: "This Section can have a different command name"
-    titleColor: teal
+    commandName: tryhackme
+    title: "TryHackme"
+    titleColor: red
     content: |
-          Here the title and the content can have different colors
-          The content can be multi
-          
-          line
-
-          And spaces       will be respected as well
-          This section will have the default command: misc
-          but you can name it something else with the property
-          commandName: <String>
-          Give it a shot and try and uncomment the line 
-          commandName: newcommand
-          now instead of misc you can execute the newcommand for this section
-          Auto completion will know it too! :D 
+          Top 1% Global Ranking
+         # Learning Paths Completed: 
 
     contentColor: orange
   
