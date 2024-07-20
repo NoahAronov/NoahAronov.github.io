@@ -99,10 +99,10 @@ params:
   - certName: PJOR, Practical Junior OSINT Researcher
     company: TCM Security
     date: 03/2024
-  - certName: PenTest+, CompTIA Penetration Tester+
+  - certName: PenTest+, CompTIA Penetration Tester
     company: CompTIA
-    date: Expected 06/2024
-  - certName: CySA+, CompTIA Cybersecurity Analyst+
+    date: 07/2024
+  - certName: CySA+, CompTIA Cybersecurity Analyst
     company: CompTIA
     date: 04/2024
   - certName: CompTIA Security+
@@ -119,10 +119,10 @@ params:
     date: 02/2024
   - certName: CNSP, CompTIA Network Security Professional
     company: CompTIA
-    date: Expected 06/2024
+    date: 07/2024
   - certName: CNVP, CompTIA Network Vulnerability Assessment Professional
     company: CompTIA
-    date: Expected 06/2024
+    date: 07/2024
   - certName: CSAP, CompTIA Security Analytics Professional
     company: CompTIA
     date: 04/2024
