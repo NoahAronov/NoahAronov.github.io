@@ -3,9 +3,9 @@
 jQuery(document).ready(function($) {
     var animation = false;
     var availableCommands = [
-        "all", "whois", 'social', 'work', 'education',
-        'skills', 'softskills', 'languages', 'projects',
+        "all", "whois", 'social',  
         {{ if .Site.Params.certifications }} 'certifications', {{ end }}
+        'education', 'projects', 'work', 'languages',
         {{ if .Site.Params.startxLocation }} 'startx', {{ end }}
         {{ if .Site.Params.exitLocation }} 'exit', {{ end }}
         {{ if .Site.Params.misc }}{{ .Site.Params.misc.commandName | default "misc"}},{{end}}
