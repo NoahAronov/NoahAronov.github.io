@@ -21,7 +21,7 @@ params:
 
 
   whois: 
-      name: "Noah Aronov"
+      name: "Noah"
       profession: "Security Engineer"
       location: "Nevada, USA"
       email: "noah@noahsec.pro"
@@ -49,47 +49,47 @@ params:
       color: teal
       company: 'Hadron' 
       location: USA
-      date: #August 2010 - Present
-      description: Head of Gamemaster Team, Head of Training Team, Discord Community Administrator
+      date: 2020 - 2022
+      description: Head of Gamemaster Team, Head of Training Team, Discord Community Administrator, Technical Documentation
 
     - jobTitle: Assistant Head Sushi Chef
       color: teal
       company: 'Zanmai'
       location: USA
-      date: #July 2000  - July 2010
-      description: Head Sushi Chef Trainer
+      date: 2018 - 2019
+      description: Head Sushi Chef Trainer, Business Documentation, Safety Compliance
 
     - jobTitle: Senior Sushi Chef
       color: teal
       company: 'Sushi Restaurant'
       location: USA
-      date: #July 2008 - 2010
-      description: Sushi Chef Trainer
+      date: 2017 - 2018
+      description: Sushi Chef Trainer, Safety Compliance
 
     - jobTitle: Head Sushi Chef
       color: teal
       company: 'Sushi Restaurant'
       location: USA
-      date: #
-      description: Sushi Chef Trainer
+      date: 2015 - 2017
+      description: Sushi Chef Trainer, Safety Compliance
   
   projects:
-    - title: Project 1
+    - title: Portfolio Website with WAF and CI/CD
       color: blue
-      date: since 2023
-      link: https://noahsec.pro/
-      #description: Describing red stuff
+      date: 2023 - Ongoing
+      link: https://noahsec.pro/portfolio/portfolio-website
+      description: This project is a security portfolio website using a registered domain, custom DNS, a basic CI/CD pipeline, a static site generator, serverless functions, email routing, a developer environment, global CDN, load balancing, and numerous speed optimizations. Incorporates security features like multi factor authentication, passkeys, TLS encryption, SSL certificates, DDoS mitigation, web application firewall (WAF), CAPTCHA challenge, bot and AI security, email anti-phishing mitigation, role-based account control, 3-2-1 backups, and worldwide server failover. Uses Porkbun, Cloudflare, and GitHub services. Uses Hugo, Anatole, terminalCV, and Lynx for static site generation. Uses HTML, CSS, JavaScript, Markdown, TOML, and YAML languages.
 
-    - title: Project 2
+    - title: OSINT Investigation and Report with Sock Puppet and CLI Tools
       color: blue
-      date: since 2023
-      link: https://noahsec.pro/
+      date: March 2024
+      link: https://noahsec.pro/portfolio
       #description: nothing to describe
 
-    - title: Project 3
+    - title: Secure Accounts and Communications for Higher Threat Profile
       color: blue
-      date: Since 2024
-      link: https://noahsec.pro/
+      date: August 2023
+      link: https://noahsec.pro/portfolio
       #description: not there either
 
   certifications:
@@ -150,11 +150,10 @@ params:
     date: 12/2023
 
   education:
-   - courseName: Master of Science, Cybersecurity and Information Assurance
-     color: purple
-     date: 2024-2025
-     description: Western Governors University
-
+   #- courseName: Master of Science, Cybersecurity and Information Assurance
+    # color: purple
+     #date: 2024-2025
+     #description: Western Governors University
    - courseName: Bachelor of Science, Cybersecurity and Information Assurance
      color: purple
      date: 2023-2024
@@ -201,12 +200,18 @@ params:
       description: Basic
   
   misc: 
-    commandName: tryhackme
-    title: "TryHackme"
+    commandName: accomplishments
+    title: "Accomplishments"
     titleColor: red
     content: |
-          Top 1% Global Ranking
-         # Learning Paths Completed: 
-
+          - TryHackMe: Top 1% Global Ranking
+          - WGU Excellence Award in Communication
+          - Multiple Microsoft Cloud Skills Challenges
+          - Hands-on CTF in prompt injection attacks on LLMs
+          - Hands-on workshop in satellite hacking with SDR
+          - Hands-on certification in multi-cloud red teaming
+          - Hands-on certification in practical OSINT
+          - Completed over 100 IT and security courses
+          - Completed over 250 IT and security labs
     contentColor: orange
   
